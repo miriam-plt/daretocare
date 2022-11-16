@@ -1,9 +1,12 @@
 import './index.scss';
+import { AnimationOnScroll } from 'react-animation-on-scroll';
 import Navbar from '../../components/Navbar';
 import Team from '../../components/Team';
 import Partners from '../../components/Partners';
 
 const About = () => {
+
+
     return (
     <div className='about-page'>
         <Navbar />
@@ -12,7 +15,7 @@ const About = () => {
             <div>
                 <h6 className='category-title'>Our manifesto</h6>
             </div>
-            
+
             <div className='manifesto'>
                 <p>We are a group of emerging artists from a wide range of different disciplines within the creative industry working across 
                 Europe. We have experience with mental health struggles caused by various aspects of our working environment and our 
@@ -39,13 +42,21 @@ const About = () => {
         </div>
 
         <div>
-            <h6 className='category-title'>Meet the team</h6>
-            <Team />
+            <AnimationOnScroll animateIn="animate__fadeInLeft">
+                <h6 className='category-title'>Meet the team</h6>
+            </AnimationOnScroll>
+            <AnimationOnScroll animateIn="animate__fadeInRight">
+                <Team />
+            </AnimationOnScroll>
         </div>
         
         <div>
-            <h6 className='category-title'>Our Partners</h6>
-            <Partners />
+            <AnimationOnScroll animateIn="animate__fadeInLeft">
+                <h6 className='category-title'>Our Partners</h6>
+            </AnimationOnScroll>
+            <AnimationOnScroll animateIn="animate__fadeInRight">
+                <Partners />
+            </AnimationOnScroll>
         </div>
 
     </div>
