@@ -2,7 +2,7 @@ import './index.scss';
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import Navbar from '../../components/Navbar';
-import image from '../../images/logo192.png'
+import image from '../../images/contact-pic.jpg'
 
 const Contact = () => {
     const form = useRef();
@@ -27,7 +27,8 @@ const Contact = () => {
         <Navbar />
         <div className='container'>
         <div className='contact-form'>
-            <h5 className='contact-me'>Contact me</h5>
+            <h5 className='contact-me'>Get in touch</h5>
+            <p>If you have any inquiries about our work or would like to collaborate with us, please reach out to daretocare.artcollective@gmail.com or fill in the contact form below. We work on a part-time basis and will be in touch with you as soon as we can.</p>
             <form ref={form} onSubmit={sendEmail}>
                 <ul>
                     <li className='half'>

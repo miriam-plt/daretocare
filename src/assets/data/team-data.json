@@ -4,62 +4,62 @@
        "name": "Ania Duldiier",
        "role": ["Artist"],
        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-       "image": ""
+       "image": "../../images/team/ania.jpeg"
     },
     {
         "_id": "cami",
         "name": "Cami Ruohonen",
         "role": ["Artist", "Illurstrator"],
         "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "image": ""
+        "image": "../../images/team/cami.jpeg"
     },
     {
         "_id": "elena",
         "name": "Elena Righini",
         "role": ["Curator"],
         "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "image": ""
+        "image": "../../images/team/elena.jpeg"
      },
      {
         "_id": "ewa",
         "name": "Ewa Rybojad",
         "role": ["Artist", "Graphic designer"],
         "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "image": ""
+        "image": "../../images/team/ewa.jpeg"
      },
      {
         "_id": "kristyna",
         "name": "Kristýna Ilek",
         "role": ["Dramaturg", "Researcher"],
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "image": ""
+        "bio": "Kristýna is Dare to Care's dramaturg. She is also a researcher, archivist, seamstress and analogue photography enthusiast. Most often, you can find her travelling between the Czech Republic, Scotland and the Netherlands.",
+        "image": "../../images/team/kristyna.jpeg"
      },
      {
         "_id": "madeleina",
         "name": "Madeleina Kay",
         "role": ["Artist", "Performer"],
         "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "image": ""
+        "image": "../../images/team/madeleina.jpeg"
      },
      {
         "_id": "magdalena",
         "name": "Magdalena Rybojad",
         "role": ["Artist", "Graphic designer"],
         "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "image": ""
+        "image": "../../images/team/magdalena.jpeg"
      },
      {
         "_id": "mathilde",
         "name": "Mathilde Palenius",
         "role": ["Poducer", "Project coordinator"],
         "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "image": ""
+        "image": "../../images/team/mathilde.jpeg"
      },
      {
         "_id": "miriam",
         "name": "Miriam Poletti",
         "role": ["Artist", "Web developer"],
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "image": ""
+        "bio": "Miriam is an artist and web developer. Among other things, she helps manage the Dare to Care website. Besides being an art nerd, they are also a fantasy writer and pillow sewer. You can find her daydreaming or handcrafting in Berlin.",
+        "image": "../../images/team/miriam.jpeg"
      }
 ]

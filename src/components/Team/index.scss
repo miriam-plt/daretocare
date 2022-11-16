@@ -1,0 +1,46 @@
+.team-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 500px;
+    margin-top: 0;
+    margin-bottom: 6em;
+    border: 2px solid green;
+}
+
+.member-card {
+    width: 300px;
+    margin: 20px;
+    border: 2px solid green;
+}
+
+.member-info {
+    display: none;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.member-name {
+    margin-bottom: 0;
+}
+
+.member-role {
+    margin-top: 0;
+}
+
+.member-bio {
+    font-size: 14px;
+}
+
+.member-img {
+    width: 100%;
+}
+
+.member-img:hover {
+    display: none;
+}
+
+.member-img:hover + .member-info {
+    display: block;
+}

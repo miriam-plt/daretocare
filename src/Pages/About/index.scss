@@ -1,0 +1,23 @@
+.manifesto-container {
+    margin-top: 6em;
+    display: flex;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.category-title {
+    font-size: 40px;
+    width: 500px;
+    border: 2px solid red;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.manifesto {
+    text-align: justify;
+    text-justify: inter-word;
+    width: 60%;
+    margin-bottom: 6em;
+    border: 2px solid red;
+}
+
