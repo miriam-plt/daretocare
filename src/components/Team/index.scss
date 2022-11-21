@@ -4,6 +4,12 @@
     margin-left: 500px;
     margin-top: 0;
     margin-bottom: 6em;
+
+    @media (max-width: 1025px) {
+        flex-direction: column;
+        margin-left: 10%;
+        margin-top: 3em;
+    }
 }
 
 .member-card {

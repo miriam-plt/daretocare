@@ -4,6 +4,10 @@
     align-items: flex-start;
     align-content: flex-start;
     height: 100vh;
+
+    @media (max-width: 1025px) {
+        flex-direction: column;
+    }
 }
 
 .category-title {
@@ -14,11 +18,21 @@
     animation: fadeInLeft 1s 0.5s both;
 }
 
+.animate__fadeInLeft {
+    max-width: 500px;
+}
+
 .manifesto {
     text-align: justify;
     text-justify: inter-word;
     width: 60%;
     margin-bottom: 6em;
     animation: fadeInRight 1s 0.5s both;
+
+    @media (max-width: 1025px) {
+        margin-left: 10%;
+        width: 80%;
+        margin-top: 3em;
+    }
 }
 

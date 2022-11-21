@@ -47,10 +47,7 @@
             overflow: hidden;
             display: block;
             position: relative;
-            
-            animation: fadeInDown 1s 0.5s;
-            animation-fill-mode: forwards;
-            clear: both;
+            animation: fadeInDown 1s 0.5s both;
         }
     }
 }
@@ -125,4 +122,8 @@ textarea::placeholder {
 .contact-me {
     font-size: 30px;
     margin-bottom: 0;
+}
+
+.contact-text {
+    animation: fadeInDown 1s 0.5s both;
 }
