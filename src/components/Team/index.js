@@ -6,7 +6,7 @@ import TeamData from '../../assets/data/team-data.json';
 function Team() {
 
     return (
-        <div className='team-container'>
+        <div className='member-cards-container'>
             {TeamData.map(member => {
                 return (
                     <div className='member-card' key={member._id}>

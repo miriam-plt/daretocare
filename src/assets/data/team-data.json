@@ -3,7 +3,7 @@
        "_id": "ania",
        "name": "Ania Duldiier",
        "role": ["Artist"],
-       "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+       "bio": "Ania is a visual artist from Kiev, Ukraine. She studied political science and art ceramics and organised underground outdoor exhibitions. On 14 February 2022, she left Ukraine with her family, 10 days before the beginning of the Russian invasion. Now has a refugee status in Switzerland.",
        "image": "../../images/team/ania.jpeg"
     },
     {
@@ -51,8 +51,8 @@
      {
         "_id": "mathilde",
         "name": "Mathilde Palenius",
-        "role": ["Poducer", "Project coordinator"],
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "role": ["Producer", "Project coordinator"],
+        "bio": "Mathilde is an artistic producer and project coordinator based in Helsinki, working with diverse pluridisciplinary artistic spaces and projects as well as participatory actions. Often too stressed and perfectionist she is still optimistic, energetic and never gives up.",
         "image": "../../images/team/mathilde.jpeg"
      },
      {
