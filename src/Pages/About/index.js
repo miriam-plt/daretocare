@@ -33,7 +33,7 @@ const About = () => {
                 cultural workers. </p>
                 <p>We believe that a conversation about mental health in the art world is long overdue, especially in relation to the 
                 working conditions of emerging and independent artists, and we invite you to join the conversation. Our name, <i>Dare to Care</i>, 
-                suggests that it is brave, useful and ultimately good to care about one's surroundings and people which we aim to do through 
+                suggests that it is brave, useful and ultimately good to care about our surroundings and people, which we aim to do through 
                 our collective practice.</p>
                 <p>This is a long-term project and in its first year will be completed as a part of  
                 <a href="https://destructura.com/" target="_blank" rel="noreferrer"> De Structura </a> 
