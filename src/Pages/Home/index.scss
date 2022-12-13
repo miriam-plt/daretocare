@@ -5,7 +5,6 @@
     background-image: url("../../images/background.jpg");
     background-size: cover;
     background-position: center;
-    filter: brightness();
     height: 80vh;
     width: 100vw;
     display: flex;
@@ -13,31 +12,34 @@
     top: 0;
     left: 0;
     @media (max-width: 1025px) {
-      height: 55vh;
+      height: 65vh;
     }
   }
   
   .title {
     font-family: 'Red Hat Display', sans-serif;
-    font-size: 350px;
+    font-size: 310px;
     color: rgb(39, 38, 38); 
-    margin-bottom: -20px;
-    margin-top: -70px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 
     @media (max-width: 1025px) {
-      font-size: 100px;
+      font-size: 90px;
       margin-bottom: 0px;
-      margin-top: 80px;
+      margin-top: 180px;
     }
   }
 
   .title-right {
-    right: 150px;
+    right: 50px;
     animation: fadeInRight 2s 0.5s both;
     position: absolute;
     z-index: 0;
     @media (max-width: 1025px) {
-      right: 50px;
+      right: 20px;
+    }
+    @media screen and (min-width: 1750px) {
+      right: 100px;
     }
   }
 
@@ -48,20 +50,20 @@
     position: absolute;
     z-index: 999;
     @media (max-width: 1025px) {
-      margin-right: 100px;
+      margin-left: 20px;
     }
   }
 
   .image-between {
-    width: 800px;
+    width: 700px;
     right: 25%;
     margin-top: -80px;
     position: absolute;
     z-index: 900;
     @media (max-width: 1025px) {
       width: 400px;
-      margin-top: 0px;
-      right: 50px;
+      margin-top: 40px;
+      right: 10%;
     }
   }
   
@@ -72,7 +74,8 @@
     margin-top: 0;
     margin-left: 100px;
     @media (max-width: 1025px) {
-      width: 400px;
+      font-size: 25px;
+      width: 300px;
       margin-left: 50px;
     }
   }
@@ -94,6 +97,10 @@
     font-weight: 300;
     margin-top: 30px;
     cursor: pointer;
+    @media (max-width: 1025px) {
+      font-size: 20px;
+      margin-right: 0;
+    }
   }
 
   .button-homepage:hover {

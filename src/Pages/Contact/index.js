@@ -56,6 +56,7 @@ const Contact = () => {
                 play
                 style={{ width: 350, height: 350 }}
                 speed={0.5}
+                className='contact-animation'
             />
         </div>
     </div>

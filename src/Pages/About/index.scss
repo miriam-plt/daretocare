@@ -10,7 +10,7 @@
     display: flex;
     align-items: flex-start;
     align-content: flex-start;
-    height: 90vh;
+    height: fit-content;
     background: rgb(203,169,150);
     background: linear-gradient(0deg, rgba(203,169,150,1) 0%, rgba(221,207,190,1) 100%);
     @media (max-width: 1025px) {
@@ -20,16 +20,19 @@
 
 .scroll-down {
     margin-top:  15em;
+    @media (max-width: 1025px) {
+        display: none;
+    }
 }
 
 .team-container {
     display: flex;
     align-items: flex-start;
     align-content: flex-start;
-    margin-top: 15em;
+    margin-top: 10em;
     @media (max-width: 1025px) {
         flex-direction: column;
-        margin-top: 28em;
+        margin-top: 10em;
     }
 }
 
@@ -37,12 +40,14 @@
     display: flex;
     align-items: flex-start;
     align-content: flex-start;
-    padding-top: 15em;
-    padding-bottom: 15em;
+    padding-top: 10em;
+    padding-bottom: 10em;
     background: rgb(148,164,188);
     background: linear-gradient(0deg, rgba(148,164,188,1) 0%, rgba(203,169,150,1) 100%);
     @media (max-width: 1025px) {
         flex-direction: column;
+        padding-top: 10em;
+        padding-bottom: 10em;
     }
 }
 
@@ -54,7 +59,9 @@
     margin-bottom: 0;
     animation: fadeInLeft 1s 0.5s both;
     @media (max-width: 1025px) {
-        width: 400px;
+        width: 200px;
+        font-size: 30px;
+        margin-left: 12%;
     }
 }
 
@@ -75,7 +82,7 @@
     animation: fadeInRight 1s 0.5s both;
 
     @media (max-width: 1025px) {
-        margin-left: 10%;
+        margin-left: 8%;
         width: 80%;
         margin-top: 3em;
     }
