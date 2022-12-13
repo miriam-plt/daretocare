@@ -1,5 +1,7 @@
 import './index.scss';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
+import Lottie from 'react-lottie-player';
+import lottieJson from '../../../src/assets/data/40587-scroll.json';
 import Navbar from '../../components/Navbar';
 import Team from '../../components/Team';
 import Partners from '../../components/Partners';
@@ -39,6 +41,14 @@ const About = () => {
                 <a href="https://destructura.com/" target="_blank" rel="noreferrer"> De Structura </a> 
                 programme with their support. </p>
             </div>
+            <Lottie
+                loop
+                animationData={lottieJson}
+                play
+                style={{ width: 350, height: 350 }}
+                speed={0.5}
+                className='scroll-down'
+            />
         </div>
 
         <div className='team-container'>
