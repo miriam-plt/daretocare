@@ -5,7 +5,7 @@ function Member(props) {
 
     return (
         <div>
-            <h1 className='name'>{member.name}</h1>
+            <h1 className='member-name'>{member.name}</h1>
         </div>
     );
 };

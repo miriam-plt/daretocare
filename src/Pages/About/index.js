@@ -13,7 +13,7 @@ const About = () => {
     
         <div className='manifesto-container'>
             <div>
-                <h6 className='category-title'>Our manifesto</h6>
+                <h6 className='category-title manifesto-title'>Our manifesto</h6>
             </div>
 
             <div className='manifesto'>

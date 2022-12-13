@@ -1,46 +1,103 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
-@import url('https://fonts.googleapis.com/css2?family=K2D&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300&display=swap');
 
 .header {
-    background-image: url("https://64.media.tumblr.com/8055c71746f3e63377b070388522571b/eef155f6ffd195fa-b1/s2048x3072/a7001904cdd4890f2621c9e712fc3bfbf385b2a5.jpg");
+    background-image: url("../../images/background.jpg");
     background-size: cover;
     background-position: center;
     filter: brightness();
-    height: 95vh;
+    height: 80vh;
     width: 100vw;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    top: 0;
+    left: 0;
+    @media (max-width: 1025px) {
+      height: 55vh;
+    }
   }
   
   .title {
-    font-family: 'K2D', sans-serif;
-    font-size: 100px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 350px;
     color: rgb(39, 38, 38); 
-    margin-bottom: 0;
+    margin-bottom: -20px;
+    margin-top: -70px;
 
     @media (max-width: 1025px) {
-      font-size: 80px;
+      font-size: 100px;
+      margin-bottom: 0px;
+      margin-top: 80px;
     }
   }
 
-  .subtitle {
-    font-size: 30px;
-    margin-top: 0;
-
+  .title-right {
+    right: 150px;
+    animation: fadeInRight 2s 0.5s both;
+    position: absolute;
+    z-index: 0;
     @media (max-width: 1025px) {
-      font-size: 20px;
+      right: 50px;
+    }
+  }
+
+  .title-left {
+    margin-top: 300px;
+    margin-left: 50px;
+    animation: fadeInLeft 2s 0.5s both;
+    position: absolute;
+    z-index: 999;
+    @media (max-width: 1025px) {
+      margin-right: 100px;
+    }
+  }
+
+  .image-between {
+    width: 800px;
+    right: 25%;
+    margin-top: -80px;
+    position: absolute;
+    z-index: 900;
+    @media (max-width: 1025px) {
+      width: 400px;
+      margin-top: 0px;
+      right: 50px;
     }
   }
   
-  .header h5 {
-    width: 600px;
-    font-size: 18px;
+  .subtitle {
+    font-size: 35px;
     font-weight: 300;
+    width: 500px;
     margin-top: 0;
-
+    margin-left: 100px;
     @media (max-width: 1025px) {
-      width: 360px;
+      width: 400px;
+      margin-left: 50px;
     }
   }
+
+  .section-1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    @media (max-width: 1025px) {
+      flex-direction: column;
+    }
+  }
+
+  .button-homepage {
+    border: none;
+    background-color: transparent;
+    margin-right: 100px;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+
+  .button-homepage:hover {
+    color: #94a4bc;
+  }
+
+ 

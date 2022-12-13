@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300&display=swap');
+
+
 .member-cards-container {
     display: flex;
     flex-wrap: wrap;
@@ -24,6 +27,7 @@
     margin-right: 10px;
 
     .member-name {
+        font-family: 'Red Hat Display', sans-serif;
         margin-bottom: 0;
     }
     

@@ -1,8 +1,9 @@
 import './index.scss';
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
+import Lottie from 'react-lottie-player';
+import lottieJson from '../../../src/assets/data/97963-contact.json';
 import Navbar from '../../components/Navbar';
-import image from '../../images/contact-pic.jpg'
 
 const Contact = () => {
     const form = useRef();
@@ -49,7 +50,13 @@ const Contact = () => {
                 </ul>
             </form>
         </div>
-            <img className='contact-pic' src={image} alt='test' />
+            <Lottie
+                loop
+                animationData={lottieJson}
+                play
+                style={{ width: 350, height: 350 }}
+                speed={0.5}
+            />
         </div>
     </div>
 }

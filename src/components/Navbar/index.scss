@@ -1,26 +1,49 @@
 .nav-bar {
     padding-top: 1px;
     padding-bottom: 1px;
-    background-color: #e9e9ea;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: transparent;
     overflow: visible;
     list-style: none;
     height: 36px;
     z-index: 100;
     width: 100vw;
-    position: sticky;
+    position: absolute;
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
 
   .logo {
-    width: 30px;
+    width: 70px;
     margin-left: 20px;
+    margin-top: 30px;
   }
 
   .nav-link {
     color: black;
     text-decoration: none;
     margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .selected {
+    font-weight: 800;
+  }
+
+  ul {
+    list-style:none;
+  }
+  ul li{
+    display:inline-block; 
+    padding:0 7px; 
+    position:relative;
+  }
+  ul li:not(:last-child)::after{
+    content: ""; 
+    border: 1px solid black;
+    border-width: 1px 1px 0 0;
+    position: absolute; 
+    right: -3px; 
+    top: 0; 
+    height: 100%;
   }
