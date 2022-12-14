@@ -7,10 +7,12 @@ const Home = () => {
     return (
     <div className='homepage'>
         <Navbar />
-        <div className='header'>
-            <h1 className='title title-right'>Dare</h1>
-            <img className='image-between' src={image} alt='between' />
-            <h1 className='title title-left'>to Care</h1>
+        <div className='background-main'>
+            <div className='header'>
+                <h1 className='title title-right'>Dare</h1>
+                <img className='image-between' src={image} alt='between' />
+                <h1 className='title title-left'>to Care</h1>
+            </div>
         </div>
         <div className='section-1'>
         <h5 className='subtitle'>Awareness and mental health care for the art community.</h5>
