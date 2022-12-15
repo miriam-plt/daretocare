@@ -9,22 +9,22 @@
     {
         "_id": "cami",
         "name": "Cami Ruohonen",
-        "role": ["Artist", "Illurstrator"],
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "role": ["Illustrator"],
+        "bio": "Cami is part of Dare to Care's visual team. She is also an illustrator, painter and graphic designer. She is based in Italy but lived also in the Uk and Finland. She sees nature as an endless source of inspiration, wonders and healing.",
         "image": "../../images/team/cami.jpeg"
     },
     {
         "_id": "elena",
         "name": "Elena Righini",
-        "role": ["Curator"],
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "role": ["Curator", "Project manager"],
+        "bio": "Elena is curator and project manager. In Dare to Care, she takes care of general management, as well as helping finding concrete solutions to develop all the great ideas of the group. She lives between Italy and Spain and her research is mostly focused on sustainable curatorial practices and cultural welfare.",
         "image": "../../images/team/elena.jpeg"
      },
      {
         "_id": "ewa",
         "name": "Ewa Rybojad",
-        "role": ["Artist", "Graphic designer"],
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "role": ["Graphic designer"],
+        "bio": "Ewa works on Dare to Care visual identity for website and social media. She is a polish graphic designer and a futurist. Her current passion is centered around body movement and human silhouette in 3D space.",
         "image": "../../images/team/ewa.jpeg"
      },
      {
@@ -37,15 +37,15 @@
      {
         "_id": "madeleina",
         "name": "Madeleina Kay",
-        "role": ["Artist", "Performer"],
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "role": ["Artist", "Social Media Coordinator"],
+        "bio": "Madeleina is a British artist, writer and activist, awarded 'Young European of the Year' 2018 and the EU Charlemagne Youth Prize in 2020. She has self-published 9 books and performed at events and festivals across Europe. She currently works as a social media and communications manager for NGOs.",
         "image": "../../images/team/madeleina.jpeg"
      },
      {
         "_id": "magdalena",
         "name": "Magdalena Rybojad",
-        "role": ["Artist", "Graphic designer"],
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "role": ["Graphic designer"],
+        "bio": "Magdalena is hybrid projects creator, born in Poland. Jewelry designer and producer working with 3D graphic. Sculptress carving in mother of pearl, precious and semi-precious stones. In Dare to Care she’s part of the visual department. Working with social media and website.",
         "image": "../../images/team/magdalena.jpeg"
      },
      {
@@ -59,7 +59,7 @@
         "_id": "miriam",
         "name": "Miriam Poletti",
         "role": ["Artist", "Web developer"],
-        "bio": "Miriam is an artist and web developer. Among other things, she helps manage the Dare to Care website. Besides being an art nerd, they are also a fantasy writer and pillow sewer. You can find her daydreaming or handcrafting in Berlin.",
+        "bio": "Miriam is an artist and web developer. Among other things, she helps manage the Dare to Care website. Besides being an art nerd, they are also a fantasy writer with a passion for textiles and sewing. You can find her daydreaming in Berlin.",
         "image": "../../images/team/miriam.jpeg"
      }
 ]
