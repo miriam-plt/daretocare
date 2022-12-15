@@ -89,8 +89,13 @@
 }
 
 .manifesto a {
-    color: rgb(123, 122, 122);
+    color: rgb(98, 97, 97);
     text-decoration: none;
     text-transform: uppercase;
     font-size: 14px;
+    font-weight: 600;
+}
+
+.manifesto a:hover {
+    color: rgb(255, 255, 255);
 }
