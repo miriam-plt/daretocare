@@ -4,6 +4,7 @@
 .about-page {
     top: 0;
     left: 0;
+    max-width: 100vw;
 }
 
 .manifesto-container {
@@ -59,7 +60,7 @@
     margin-bottom: 0;
     animation: fadeInLeft 1s 0.5s both;
     @media (max-width: 1025px) {
-        width: 200px;
+        width: 300px;
         font-size: 30px;
         margin-left: 12%;
     }
