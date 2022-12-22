@@ -62,7 +62,7 @@ const About = () => {
         
         <div className='partners-container'>
             <AnimationOnScroll animateIn="animate__fadeInLeft">
-                <h6 className='category-title'>Our Partners</h6>
+                <h6 className='category-title'>Our Collaborators</h6>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__fadeInRight">
                 <Partners />

@@ -15,7 +15,7 @@ function Team() {
                         </div>
                         <div className='div2 member-info'>
                             <Member key={member._id} className='member-name' member={member} />
-                            <h5 className='member-role'>{member.role[0]}{member.role[1] && `, ${member.role[1]}`}</h5>
+                            <h5 className='member-role'>{member.role[0]}{member.role[1] && `, ${member.role[1]}`} <span className='pronouns'>({member.pronouns})</span> </h5>
                             <p className='member-bio'>{member.bio}</p>
                         </div>                                                       
                     </div>

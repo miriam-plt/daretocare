@@ -3,6 +3,7 @@
        "_id": "ania",
        "name": "Ania Duldiier",
        "role": ["Artist"],
+       "pronouns": "she/her",
        "bio": "Ania is a visual artist from Kiev, Ukraine. She studied political science and art ceramics and organised underground outdoor exhibitions. On 14 February 2022, she left Ukraine with her family, 10 days before the beginning of the Russian invasion. Now has a refugee status in Switzerland.",
        "image": "../../images/team/ania.jpeg",
        "website": "http://aniaduldiier.tilda.ws/"
@@ -11,6 +12,7 @@
         "_id": "cami",
         "name": "Cami Ruohonen",
         "role": ["Illustrator"],
+        "pronouns": "she/her",
         "bio": "Cami is part of Dare to Care's visual team. She is also an illustrator, painter and graphic designer. She is based in Italy but lived also in the Uk and Finland. She sees nature as an endless source of inspiration, wonders and healing.",
         "image": "../../images/team/cami.jpeg",
         "website": "https://www.camiruohonen.com/"
@@ -19,6 +21,7 @@
         "_id": "elena",
         "name": "Elena Righini",
         "role": ["Curator", "Project manager"],
+        "pronouns": "she/her",
         "bio": "Elena is curator and project manager. In Dare to Care, she takes care of general management, as well as helping finding concrete solutions to develop all the great ideas of the group. She lives between Italy and Spain and her research is mostly focused on sustainable curatorial practices and cultural welfare.",
         "image": "../../images/team/elena.jpeg"
      },
@@ -26,6 +29,7 @@
         "_id": "ewa",
         "name": "Ewa Rybojad",
         "role": ["Graphic designer"],
+        "pronouns": "she/her",
         "bio": "Ewa works on Dare to Care visual identity for website and social media. She is a polish graphic designer and a futurist. Her current passion is centered around body movement and human silhouette in 3D space.",
         "image": "../../images/team/ewa.jpeg"
      },
@@ -33,6 +37,7 @@
         "_id": "kristyna",
         "name": "Kristýna Ilek",
         "role": ["Dramaturg", "Researcher"],
+        "pronouns": "she/her",
         "bio": "Kristýna is Dare to Care's dramaturg. She is also a researcher, archivist, seamstress and analogue photography enthusiast. Most often, you can find her travelling between the Czech Republic, Scotland and the Netherlands.",
         "image": "../../images/team/kristyna.jpeg"
      },
@@ -40,6 +45,7 @@
         "_id": "madeleina",
         "name": "Madeleina Kay",
         "role": ["Artist", "Social Media Coordinator"],
+        "pronouns": "she/her",
         "bio": "Madeleina is a British artist, writer and activist. She has self-published 9 books and performed at events and festivals across Europe. She currently works as a social media and communications manager for NGOs.",
         "image": "../../images/team/madeleina.jpeg",
         "website": "https://www.madeleinakay.com/"
@@ -48,6 +54,7 @@
         "_id": "magdalena",
         "name": "Magdalena Rybojad",
         "role": ["Graphic designer"],
+        "pronouns": "she/her",
         "bio": "Magdalena is hybrid projects creator, born in Poland. She's a sculptress, jewelry designer and producer working with 3D graphic, carving in mother of pearl, precious and semi-precious stones. In Dare to Care she’s part of the visual department. Working with social media and website.",
         "image": "../../images/team/magdalena.jpeg"
      },
@@ -55,6 +62,7 @@
         "_id": "mathilde",
         "name": "Mathilde Palenius",
         "role": ["Producer", "Project coordinator"],
+        "pronouns": "she/her",
         "bio": "Mathilde is an artistic producer and project coordinator based in Helsinki, working with diverse pluridisciplinary artistic spaces and projects as well as participatory actions. Often too stressed and perfectionist she is still optimistic, energetic and never gives up.",
         "image": "../../images/team/mathilde.jpeg"
      },
@@ -62,6 +70,7 @@
         "_id": "miriam",
         "name": "Miriam Poletti",
         "role": ["Artist", "Web developer"],
+        "pronouns": "she/they",
         "bio": "Miriam is an artist and web developer. Among other things, she helps manage the Dare to Care website. Besides being an art nerd, they are also a fantasy writer, video maker and sculptor with a passion for textiles and sewing. You can find her daydreaming in Berlin.",
         "image": "../../images/team/miriam.jpeg",
         "website": "https://miriampoletti.com/"

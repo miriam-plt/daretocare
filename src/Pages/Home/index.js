@@ -15,7 +15,7 @@ const Home = () => {
             </div>
         </div>
         <div className='section-1'>
-        <h5 className='subtitle'>Awareness and mental health care for the art community.</h5>
+        <h5 className='subtitle'>Art collective</h5>
         <NavLink to={'/about'}><button className='button-homepage'>Read our manifesto →</button></NavLink>
         </div>
     </div>
