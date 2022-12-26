@@ -1,5 +1,8 @@
 .partner-logo {
     width: 100%;
+    @media (max-width: 1025px) {
+        margin-left: 70%;
+    }
 }
 
 .partner-container {
