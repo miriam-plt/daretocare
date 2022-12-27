@@ -1,0 +1,27 @@
+.error-msg {
+    width: 500px;
+}
+
+.error-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+    @media (max-width: 1025px) {
+        padding-top: 35%;
+    }
+}
+
+.button-error {
+    padding: 35px;
+    font-size: 20px;
+    border: none;
+    border-radius: 45px;
+    cursor: pointer;
+}
+
+.error-animation {
+    @media (max-width: 1025px) {
+        display: none;
+    }
+}
