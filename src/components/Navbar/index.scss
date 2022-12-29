@@ -14,9 +14,13 @@
   }
 
   .logo {
-    width: 70px;
+    width: 110px;
     margin-left: 20px;
-    margin-top: 30px;
+    margin-top: 10px;
+  }
+
+  .logo:hover {
+    animation: pulse 1s 0.5s both;
   }
 
   .nav-link {
