@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
 
+@font-face {
+  font-family: "arck";
+  src: url("../../assets/fonts/Arck.woff") format('woff');
+}
 
 .header {
     display: flex;
@@ -16,11 +20,15 @@
 }
   
   .title {
-    font-family: 'Berkshire Swash', cursive;
+    font-family: 'arck';
     color: rgb(39, 38, 38); 
     margin-bottom: 0px;
     margin-top: 0px;
-    font-size: 340px;
+    font-size: 260px;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: url('../../images/background-text.png');
     @media (max-width: 1025px) {
       font-size: 124px;
     }
@@ -29,7 +37,7 @@
   .title-top {
     animation: fadeInRight 2s 0.5s both;
     position: absolute;
-    margin-top: 10%;
+    margin-top: 20%;
     margin-left: 2%;
     @media (max-width: 1025px) {
       margin-top: 70%;
@@ -37,7 +45,7 @@
   }
 
   .title-bottom {
-    margin-top: 20%;
+    margin-top: 25%;
     margin-left: 2%;
     animation: fadeInRight 2s 0.5s both;
     position: absolute;
