@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "arck";
-  src: url("../../assets/fonts/Arck.woff") format('woff');
+  src: url("../../assets/fonts/Edensor-Free.woff") format('woff');
 }
 
 .header {
@@ -24,11 +24,12 @@
     color: rgb(39, 38, 38); 
     margin-bottom: 0px;
     margin-top: 0px;
-    font-size: 260px;
+    font-size: 360px;
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
     background-image: url('../../images/background-text.png');
+    background-size: 1300px;
     @media (max-width: 1025px) {
       font-size: 124px;
     }
@@ -37,7 +38,7 @@
   .title-top {
     animation: fadeInRight 2s 0.5s both;
     position: absolute;
-    margin-top: 20%;
+    margin-top: 14%;
     margin-left: 2%;
     @media (max-width: 1025px) {
       margin-top: 70%;
@@ -45,7 +46,7 @@
   }
 
   .title-bottom {
-    margin-top: 25%;
+    margin-top: 20%;
     margin-left: 2%;
     animation: fadeInRight 2s 0.5s both;
     position: absolute;
