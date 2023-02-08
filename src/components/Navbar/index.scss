@@ -9,10 +9,11 @@
     position: absolute;
     display: flex;
     align-items: center;
+    justify-content: space-between;
   }
 
   .logo {
-    width: 70px;
+    width: 50px;
     margin-left: 20px;
     margin-top: 10px;
   }
@@ -22,7 +23,7 @@
   }
 
   .nav-link {
-    color: black;
+    color: white;
     text-decoration: none;
     margin-right: 20px;
     margin-left: 20px;
@@ -43,7 +44,7 @@
   }
   ul li:not(:last-child)::after{
     content: ""; 
-    border: 1px solid black;
+    border: 1px solid white;
     border-width: 1px 1px 0 0;
     position: absolute; 
     right: -3px; 

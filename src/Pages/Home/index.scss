@@ -1,59 +1,81 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap');
 
 @font-face {
   font-family: "arck";
   src: url("../../assets/fonts/Arck.woff") format('woff');
 }
 
-.header {
-    display: flex;
-    flex-direction: column;
-  }
 
-.background-main {
-  background-image: url("../../images/background.jpg");
+.header {
+  background-image: url("../../images/background-text.jpg");
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: fit-content!important;
+  min-height: 80vh;
   width: 100vw;
-  display: block;
+  display: flex;
+  top: 0;
+  left: 0;
 }
   
   .title {
-    font-family: 'arck';
+    font-family: 'Comfortaa', cursive;
+    font-weight: 100;
     color: rgb(39, 38, 38); 
     margin-bottom: 0px;
     margin-top: 0px;
-    font-size: 250px;
     background-clip: text;
     -webkit-background-clip: text;
-    color: transparent;
-    background-image: url('../../images/background-text.png');
-    background-size: 1300px;
+    color: #c6aba5;
+
     @media (max-width: 1025px) {
-      font-size: 124px;
+      font-size: 80px;
+      margin-bottom: 0px;
+    }
+    @media screen and (min-width: 1025px) {
+      font-size: 150px;
+      
+    }
+    @media screen and (min-width: 1750px) {
+      font-size: 230px;
     }
   }
 
   .title-top {
     animation: fadeInRight 2s 0.5s both;
     position: absolute;
-    margin-top: 22%;
+    margin-top: 10%;
     margin-left: 2%;
+    z-index: 0;
     @media (max-width: 1025px) {
-      margin-top: 70%;
+      margin-top: 30%;
     }
   }
 
   .title-bottom {
-    margin-top: 27%;
-    margin-left: 2%;
-    animation: fadeInRight 2s 0.5s both;
+    margin-top: 20%;
+    margin-left: 50%;
+    animation: fadeInLeft 2s 0.5s both;
     position: absolute;
     z-index: 999;
     padding-top: 110px;
     @media (max-width: 1025px) {
-      margin-top: 70%;
+      margin-top: 85%;
+      margin-left: 20%;
+    }
+  }
+
+  .image-between {
+    width: 45%;
+    position: absolute;
+    z-index: 900;
+    margin-left: 25%;
+    @media (max-width: 1025px) {
+      margin-bottom: 0px;
+      width: 100%;
+      margin-left: 0%;
+      margin-top: 35%;
     }
   }
 
@@ -64,8 +86,11 @@
     position: fixed;
     bottom: 0;
     width: 100vw;
-    background:rgba(255,255,255, 0.7);
+    background:white;
     padding-top: 3%;
+    @media (max-width: 1025px) {
+      flex-direction: column;
+    }
   }
   
   .subtitle {
@@ -74,6 +99,10 @@
     width: 500px;
     margin-top: 0;
     margin-left: 0px;
+    @media (max-width: 1025px) {
+      width: auto;
+      margin-top: 2%;
+    }
   }
 
   .button-homepage {
@@ -85,7 +114,9 @@
     margin-top: 10px;
     cursor: pointer;
     @media (max-width: 1025px) {
-      margin-right: 10%;
+      margin-right: 0;
+      margin-top: 0;
+      margin-bottom: 10%;
     }
   }
 
