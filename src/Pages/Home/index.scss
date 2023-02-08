@@ -28,14 +28,14 @@
     background-clip: text;
     -webkit-background-clip: text;
     color: #c6aba5;
+    text-shadow: 1px 1px 2px black;
 
     @media (max-width: 1025px) {
       font-size: 80px;
       margin-bottom: 0px;
     }
     @media screen and (min-width: 1025px) {
-      font-size: 150px;
-      
+      font-size: 150px;  
     }
     @media screen and (min-width: 1750px) {
       font-size: 230px;
