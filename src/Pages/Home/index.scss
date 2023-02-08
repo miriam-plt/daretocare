@@ -11,12 +11,21 @@
   background-image: url("../../images/background-text.jpg");
   background-size: cover;
   background-position: center;
-  height: fit-content!important;
-  min-height: 80vh;
-  width: 100vw;
+}
+
+.header-content {
   display: flex;
-  top: 0;
-  left: 0;
+  width: 100vw;
+
+  @media (max-width: 1025px) {
+    min-height: 75vh;
+  }
+  @media screen and (min-width: 1025px) {
+    min-height: 80vh;
+  }
+  @media screen and (min-width: 1750px) {
+    min-height: 80vh;
+  }
 }
   
   .title {
@@ -29,7 +38,7 @@
     -webkit-background-clip: text;
     color: #c6aba5;
     text-shadow: 1px 1px 2px black;
-
+    
     @media (max-width: 1025px) {
       font-size: 80px;
       margin-bottom: 0px;
@@ -71,6 +80,7 @@
     position: absolute;
     z-index: 900;
     margin-left: 25%;
+    
     @media (max-width: 1025px) {
       margin-bottom: 0px;
       width: 100%;

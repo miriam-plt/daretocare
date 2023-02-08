@@ -7,13 +7,12 @@ const Home = () => {
     return (
     <div className='homepage'>
         <Navbar />
-        
             <div className='header'>
-                <h1 className='title title-top'>dare</h1> 
-                <div className='center-image'>
-                <img className='image-between' src={image} alt='between' />
-                </div> 
-                <h1 className='title title-bottom'>to care</h1>
+                <div className='header-content'>
+                    <h1 className='title title-top'>dare</h1> 
+                    <img className='image-between' src={image} alt='between' />
+                    <h1 className='title title-bottom'>to care</h1>
+                </div>
             </div>
                 <div className='section-1'>
                     <h5 className='subtitle'>Art collective</h5>
