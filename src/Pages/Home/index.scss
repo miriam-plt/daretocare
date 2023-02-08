@@ -16,16 +16,7 @@
 .header-content {
   display: flex;
   width: 100vw;
-
-  @media (max-width: 1025px) {
-    min-height: 75vh;
-  }
-  @media screen and (min-width: 1025px) {
-    min-height: 80vh;
-  }
-  @media screen and (min-width: 1750px) {
-    min-height: 80vh;
-  }
+  height: 100vh;
 }
   
   .title {
@@ -76,11 +67,11 @@
   }
 
   .image-between {
-    width: 45%;
+    width: 40%;
     position: absolute;
     z-index: 900;
-    margin-left: 25%;
-    
+    margin-left: 27%;
+    margin-top: 3%;
     @media (max-width: 1025px) {
       margin-bottom: 0px;
       width: 100%;
