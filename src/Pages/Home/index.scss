@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap');
 
-@font-face {
-  font-family: "arck";
-  src: url("../../assets/fonts/Arck.woff") format('woff');
-}
 
 
 .header {
@@ -54,11 +50,11 @@
   }
 
   .title-bottom {
-    margin-top: 20%;
+    margin-top: 23%;
     margin-left: 50%;
     animation: fadeInLeft 2s 0.5s both;
     position: absolute;
-    z-index: 999;
+    z-index: 3;
     padding-top: 110px;
     @media (max-width: 1025px) {
       margin-top: 85%;
@@ -69,9 +65,9 @@
   .image-between {
     width: 40%;
     position: absolute;
-    z-index: 900;
+    z-index: 2;
     margin-left: 27%;
-    margin-top: 3%;
+    margin-top: 5%;
     @media (max-width: 1025px) {
       margin-bottom: 0px;
       width: 100%;
@@ -89,6 +85,7 @@
     width: 100vw;
     background:white;
     padding-top: 3%;
+    z-index: 4;
     @media (max-width: 1025px) {
       flex-direction: column;
     }
