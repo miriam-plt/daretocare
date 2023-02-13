@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap');
+
 .container {
     display: flex;
     align-items: center;
@@ -9,21 +11,6 @@
     background-position: center;
 }
 
-.contact-animation {
-
-    @media (max-width: 1025px) {
-        display: none;
-    }
-
-    @media (min-width:1025px) {
-        object-fit: cover;
-        margin-right: 5em;
-        width: 400px;
-        height: 600px;
-        animation: fadeInRight 1s 0.5s both;
-    }
-    
-}
 
 .contact-form {
     text-align: left;
@@ -127,6 +114,7 @@ textarea::placeholder {
 
 .contact-me {
     font-size: 30px;
+    font-family: 'Comfortaa', cursive;
     margin-bottom: 0;
     @media (max-width: 1025px) {
         font-size: 20px;

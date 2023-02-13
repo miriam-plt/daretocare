@@ -1,8 +1,6 @@
 import './index.scss';
 import { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
-import Lottie from 'react-lottie-player';
-import lottieJson from '../../../src/assets/data/97963-contact.json';
 import Navbar from '../../components/Navbar';
 
 const Contact = () => {
@@ -53,15 +51,8 @@ const Contact = () => {
                 </ul>
             </form>
         </div>
-            <Lottie
-                loop
-                animationData={lottieJson}
-                play
-                style={{ width: 350, height: 350 }}
-                speed={0.5}
-                className='contact-animation'
-            />
         </div>
+            
     </div>
 }
 
