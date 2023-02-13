@@ -87,7 +87,18 @@
     padding-top: 3%;
     z-index: 4;
     @media (max-width: 1025px) {
-      flex-direction: column;
+      display: none;
+    }
+  }
+
+  .section-1-phone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150%;
+    margin-left: 26%;
+    @media (min-width: 1025px) {
+      display: none;
     }
   }
   
@@ -97,9 +108,17 @@
     width: 500px;
     margin-top: 0;
     margin-left: 0px;
-    @media (max-width: 1025px) {
-      width: auto;
-      margin-top: 2%;
+  }
+
+  .subtitle2 {
+    font-size: 25px;
+    font-weight: 300;
+    height: fit-content;
+    z-index: 4;
+    color: #c6aba5;
+    animation: fadeInUp 2s 0.5s both;
+    @media (min-width: 1025px) {
+      display: none;
     }
   }
 
@@ -111,10 +130,18 @@
     font-weight: 300;
     margin-top: 10px;
     cursor: pointer;
-    @media (max-width: 1025px) {
-      margin-right: 0;
-      margin-top: 0;
-      margin-bottom: 10%;
+  }
+
+  .button-homepage2 {
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 300;
+    cursor: pointer;
+    color: #c6aba5;
+    animation: fadeInUp 2s 0.5s both;
+    @media (min-width: 1025px) {
+      display: none;
     }
   }
 
