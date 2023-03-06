@@ -1,0 +1,22 @@
+.testimonial {
+    display: flex;
+}
+
+.quote {
+    text-align: justify;
+    text-justify: inter-character;
+}
+
+.testimonial-name {
+    text-align: left;
+    color: rgb(98, 97, 97);
+}
+
+.arrow {
+    width: 46px;
+    margin-left: 130%;
+    margin-top: 40px;
+    cursor: pointer;
+    opacity: 0.5;
+    display: none;
+}

@@ -5,6 +5,8 @@
 .spotlight-container {
     height: fit-content;
     padding-bottom: 4.5em;
-    background: rgb(203,169,150);
-    background: linear-gradient(0deg, rgba(203,169,150,1) 0%, rgba(221,207,190,1) 100%);
+    background-image: url("../../images/background2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
 }

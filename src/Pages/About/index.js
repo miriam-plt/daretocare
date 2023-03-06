@@ -5,6 +5,7 @@ import lottieJson from '../../../src/assets/data/40587-scroll.json';
 import Navbar from '../../components/Navbar';
 import Team from '../../components/Team';
 import Partners from '../../components/Partners';
+import Testimonials from '../../components/Testimonials';
 
 const About = () => {
 
@@ -66,6 +67,19 @@ const About = () => {
             <AnimationOnScroll animateIn="animate__fadeInRight">
                 <Partners />
             </AnimationOnScroll>
+        </div>
+
+        <div className='testimonials-container'>
+            <div>
+                <h6 className='category-title testimonials-title'>Testimonials</h6>
+            </div>
+
+            <div className='testimonials'>
+                <AnimationOnScroll animateIn="animate__fadeInRight">
+                    <Testimonials />
+                </AnimationOnScroll>
+            </div>
+
         </div>
 
     </div>

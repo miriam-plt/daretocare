@@ -103,3 +103,13 @@
 .manifesto a:hover {
     color: rgb(255, 255, 255);
 }
+
+.testimonials-container {
+    display: flex;
+    align-items: flex-start;
+    align-content: flex-start;
+    height: fit-content;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    padding-right: 20em;
+}
