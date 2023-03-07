@@ -65,7 +65,7 @@
     @media (max-width: 1025px) {
         width: 300px;
         font-size: 30px;
-        margin-left: 12%;
+        margin-left: 14%;
     }
 }
 
@@ -112,4 +112,16 @@
     padding-top: 10em;
     padding-bottom: 10em;
     padding-right: 20em;
+    @media (max-width: 1025px) {
+        flex-direction: column;
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+}
+
+.testimonials-title {
+    @media (max-width: 1025px) {
+        margin: 0px;
+        margin-bottom: 2em;
+    }
 }
