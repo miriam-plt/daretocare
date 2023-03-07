@@ -6,9 +6,9 @@ const Blog = () => {
     <div className='blog-page'>
         <Navbar />
 
-        <div className='blog-container'>
-            <h1 className='category-title blog-title'>Blog posts</h1>
-            <h5 className='blog-description'>Coming soon...</h5>
+        <div className='blog-heading-container'>
+            <h1 className='category-title blog-title'>The blog</h1>
+            <h5 className='blog-description'>Writings from our team</h5>
         </div>
     
 

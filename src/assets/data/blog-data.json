@@ -1,0 +1,34 @@
+[
+    {
+       "_id": "blog001",
+       "title": "Interview for Mental Health Europe Blog",
+       "description": "Kristýna interviewed Elena and Mathilde for a blog post for Mental Health Europe about their experience with mental health in their careers and their motivation to join Dare to Care.",
+       "image": "../../images/blog/blog001/blog-image.jpg",
+       "image-credits": "Ewa Rybojad",
+       "link": "https://www.mhe-sme.org/dare-to-care-art-collective-mental-health-awareness/",
+       "intro": "My name is Kristýna Ilek, I am based in Prague, and as the group’s dramaturg I interviewed our producer Mathilde Palenius and curator Elena Righini who are also involved in the management of the project. Mathilde is currently responding from Finland and Elena from Italy.",
+       "questions": [{
+            "q1": "Firstly, I would like to ask you both why did you decide to join the project? What made you think this was an important initiative to be a part of?",
+            "q2": "There are many structural problems in the art world, such as funding transparency, nepotism, and expensive art education. However, you chose to focus on mental health care. I wonder if you have a personal experience with it and if there are any particular challenges you faced so far in your careers which led to problems relating to mental health?",
+            "q3": "You both mention precarity, unsustainability and instability. What kind of support is, in your opinion, missing at the moment in the art industry to prevent that?",
+            "q4": "My last question is about some of the goals of Dare to Care – what do you personally hope the collective will achieve?"
+        }],
+        "people": [{
+            "person1": "MP",
+            "person2": "ER"
+        }],
+       "anwsers": [{
+                "a1": "Initially, I joined the project through De Structura. During the Forum in Tallinn in July 2022, a few participants started talking about health issues they encountered in the context of professional artistic work. After that, Dare to Care – Art Collective emerged as a platform fuelled by the enthusiasm of its members and it is exciting to be working with artists from different backgrounds on the topic of mental health care on a European scale. Because the concept of ‘care’ is a buzzword nowadays, I like the challenge of looking for new ways of approaching it.",
+                "a2": "I started my career as an artistic producer only a few years ago but I can already highlight some issues causing instability at work, such as the difficulty of finding a long-term contract, mainly because non-profit artistic associations do not have access to stable funding. It is also difficult to distinguish and track the number of paid working hours and volunteering which blurs the line between working and free time. This contributes to the overall precarious nature of my work and adds more pressure to my private life and my mental health.",
+                "a3": "Public funding should consider models which support long-term contracts for employees to alleviate precarity. It would be also great if artists could receive more training on, for example, budgeting, production, and management. Public services and funding bodies should learn more about the nature of creative work to understand the intricacies art professionals face. I also believe art professionals who have emotionally and physically strenuous work with an unstable working schedule would benefit from accessing support, perhaps through practical workshops which would teach them how to cope in such a working environment.",
+                "a4": "I would firstly like our website to be a sustainable and trustworthy platform which would be a place for exchange, collecting testimonies and sharing efforts which would contribute to improvement of mental health conditions in the arts. I would also like us to develop cross-disciplinary practices in a dialogue with scientists to shed more light on mental health issues. Lastly, I would like to raise awareness about the working conditions in the arts beyond the field."
+            },
+            {
+                "a1": "I started thinking about the issue of mental health of art professionals around a year ago during a course on cultural welfare as a part of my Master’s degree. It seemed like a big oxymoron to me – how can artists contribute to societal wellbeing while they suffer from precarious working conditions and mental health problems caused by occupational stress? This motivated me to join Dare to Care because I wanted to contribute to bringing a systemic change in rights of art workers and to improving the stability of careers in the art sector.",
+                "a2": "For me the precarity and insecurity of working in the arts make me experience constant anxiety which is perpetuated by the difficulty of finding a paid job. I also feel like I am pressured to moving and going abroad to build a portfolio. As a result, I have been suffering from panic attacks, migraines, and just overall poor health.",
+                "a3": "As independent and emerging artists, we definitely miss tailored funding opportunities. I would also like to see broader systemic or institutional support regarding mental health care for artists in general, with a focus on early career and emerging artists.",
+                "a4": "Our goal is to be open to everyone who would like to join, to avoid exclusivity and competitiveness, which often contribute to artists’ struggle. I would like our collective to grow and bigger institutions to endorse our efforts to bring about real change. I think it is also important to identify what are currently the most urgent problems for artists."
+            }
+        ]
+    }
+]
