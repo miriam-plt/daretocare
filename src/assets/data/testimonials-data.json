@@ -1,11 +1,11 @@
 [
     {
-       "_id": "destructurateam",
+       "_id": 1,
        "name": "De Structura Core Team",
        "quote": "De Structura was created to support emerging art sector professionals. We aim to make a platform for people to come together, research the art and culture sector and try to make it more sustainable. The Dare to Care collective formed quite early on in the project, even before we got a chance to get to see each other in person. The organising team was pretty surprised by the amount of initiative and motivation among the group and the influx of ideas they had from the first day they started working together. The collective is taking on a very important topic - one that is, in one way or another, common to a lot of people in the sector and is crucial to work with if we really want to see the art world become more sustainable. We agree that it takes a lot of bravery to care about those around us and are very happy to be witnessing the development of the Dare to Care collective."
     },
     {
-        "_id": "gabriellebernoville",
+        "_id": 2,
         "name": "Gabrielle Bernoville, European Commission",
         "quote": "The vital mission of our European Cultural Partnership is to foster inclusive and forward-looking societies where individuals can blossom in cohesion with others. Dare to Care fulfils this essential mission by replacing humans at the heart of this regional endeavour. Their courage and foresight should inspire us all to join this movement gathering European people around the significant topic of mental health. Merci!"
      }

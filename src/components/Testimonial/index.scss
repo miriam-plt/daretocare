@@ -12,11 +12,9 @@
     color: rgb(98, 97, 97);
 }
 
-.arrow {
-    width: 46px;
-    margin-left: 130%;
-    margin-top: 40px;
-    cursor: pointer;
-    opacity: 0.5;
-    display: none;
+.testimonial {
+    height: 210px;
+    @media (max-width: 1025px) {
+        height: auto;
+    }
 }

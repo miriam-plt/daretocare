@@ -26,14 +26,6 @@
         "image": "../../images/team/elena.jpg"
      },
      {
-        "_id": "ewa",
-        "name": "Ewa Rybojad",
-        "role": ["Graphic designer"],
-        "pronouns": "she/her",
-        "bio": "Ewa is a Polish graphic designer and a futurist. Her current passion is centered around body movement and human silhouette in 3D space. She collaborates with Dare to Care extrenally.",
-        "image": "../../images/team/ewa.jpg"
-     },
-     {
         "_id": "kristyna",
         "name": "Kristýna Ilek",
         "role": ["Dramaturg", "Researcher"],
@@ -49,14 +41,6 @@
         "bio": "Madeleina is a British artist, writer and activist. She has self-published 9 books and performed at events and festivals across Europe. She currently works as a social media and communications manager for NGOs.",
         "image": "../../images/team/madeleina.jpg",
         "website": "https://www.madeleinakay.com/"
-     },
-     {
-        "_id": "magdalena",
-        "name": "Magdalena Rybojad",
-        "role": ["Graphic designer"],
-        "pronouns": "she/her",
-        "bio": "Magdalena is a hybrid projects creator, born in Poland. She's a sculptress, jewelry designer and producer working with 3D graphic, carving in mother of pearl, precious and semi-precious stones. She collaborates with Dare to Care externally.",
-        "image": "../../images/team/magdalena.jpg"
      },
      {
         "_id": "mathilde",
