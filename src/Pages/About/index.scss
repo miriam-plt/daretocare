@@ -58,7 +58,6 @@
 .category-title {
     font-family: 'Comfortaa', cursive;
     font-size: 40px;
-    width: 500px;
     margin-top: 0;
     margin-bottom: 0;
     animation: fadeInLeft 1s 0.5s both;
@@ -67,6 +66,10 @@
         font-size: 30px;
         margin-left: 14%;
     }
+}
+
+.about-category-title {
+    width: 500px;
 }
 
 .animate__fadeInLeft {

@@ -1,0 +1,81 @@
+.blog-post-section1 {
+    display: flex;
+    align-items: flex-end;
+    margin-left: 102px;
+    margin-right: 102px;
+    margin-top: 102px;
+    animation: fadeInUp 2s 0.5s both;
+    @media (max-width: 1025px) {
+        flex-direction: column;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+.blog-post-image {
+    width: 450px;
+    @media (max-width: 1025px) {
+        width: 346px;
+    }
+}
+
+.blog-post-image-credits {
+    font-size: 10px;
+    margin-top: 0;
+    text-align: left;
+}
+
+.blog-post-intro-text {
+    text-align: left;
+    margin-left: 50px;
+    @media (max-width: 1025px) {
+        margin-left: 0;
+    }
+}
+
+.blog-post-link {
+    font-family: 'Comfortaa', cursive;
+}
+
+.post-intro {
+    font-size: 40px;
+    font-weight: 200;
+    text-align: justify;
+    text-justify: inter-character;
+    @media (max-width: 1025px) {
+        font-size: 30px;
+    }
+}
+
+.blog-post-section2 {
+    margin-top: 50px;
+    margin-left: 102px;
+    margin-right: 102px;
+    margin-bottom: 202px;
+    text-align: left;
+    animation: fadeInUp 2s 0.5s both;
+    @media (max-width: 1025px) {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+.interview-question {
+    font-family: 'Comfortaa', cursive;
+}
+
+.interview-person {
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.interview-answer {
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.blog-post-answer {
+    display: flex;
+    align-items: baseline;
+}

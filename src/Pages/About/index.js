@@ -16,7 +16,7 @@ const About = () => {
     
         <div className='manifesto-container'>
             <div>
-                <h6 className='category-title manifesto-title'>Our manifesto</h6>
+                <h6 className='category-title about-category-title manifesto-title'>Our manifesto</h6>
             </div>
 
             <div className='manifesto'>
@@ -53,7 +53,7 @@ const About = () => {
 
         <div className='team-container'>
             <AnimationOnScroll animateIn="animate__fadeInLeft">
-                <h6 className='category-title'>Meet the team</h6>
+                <h6 className='category-title about-category-title'>Meet the team</h6>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__fadeInRight">
                 <Team />
@@ -62,7 +62,7 @@ const About = () => {
         
         <div className='partners-container'>
             <AnimationOnScroll animateIn="animate__fadeInLeft">
-                <h6 className='category-title'>Our Partners</h6>
+                <h6 className='category-title about-category-title'>Our Partners</h6>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__fadeInRight">
                 <Partners />
@@ -71,7 +71,7 @@ const About = () => {
 
         <div className='testimonials-container'>
             <div>
-                <h6 className='category-title testimonials-title'>Testimonials</h6>
+                <h6 className='category-title about-category-title testimonials-title'>Testimonials</h6>
             </div>
 
             <div className='testimonials'>

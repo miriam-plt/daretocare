@@ -1,5 +1,6 @@
 import './index.scss';
 import Navbar from '../../components/Navbar';
+import Posts from '../../components/Posts';
 
 const Blog = () => {
     return (
@@ -11,6 +12,7 @@ const Blog = () => {
             <h5 className='blog-description'>Writings from our team</h5>
         </div>
     
+    <Posts />
 
     </div>
 )}

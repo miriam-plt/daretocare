@@ -10,6 +10,7 @@ const Navbar = () => {
             </div>
             <ul className='nav-links'>
                 <li><NavLink className={({ isActive }) => isActive ? 'nav-link selected' : 'nav-link'} to='/about'>About</NavLink></li>
+                <li><NavLink className={({ isActive }) => isActive ? 'nav-link selected' : 'nav-link'} to='/blog'>Blog</NavLink></li>
                 <li><NavLink className={({ isActive }) => isActive ? 'nav-link selected' : 'nav-link'} to='/contact'>Contact</NavLink></li>
             </ul>
         </div>
