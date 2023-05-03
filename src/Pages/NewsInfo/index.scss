@@ -18,11 +18,19 @@
     width: 800px;
     text-align: justify;
     margin-right: 60px;
+    @media (max-width: 1025px) {
+        width: 350px;
+        margin-left: 20px;
+        margin-right: 20px;
+      }
 }
 
 .news-info-description {
     font-size: 40px;
     font-weight: 200;
+    @media (max-width: 1025px) {
+        font-size: 30px;
+      }
 }
 
 .news-details {
@@ -45,4 +53,9 @@
 
 .news-image2 {
     width: 500px;
+    @media (max-width: 1025px) {
+        width: 360px;
+        margin-top: 60px;
+        margin-bottom: 120px;
+      }
 }
