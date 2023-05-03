@@ -35,7 +35,7 @@ function BlogPost() {
                         </div>
 
                         <div className='blog-post-section2'>
-                            {post.interview.map((interview, index) => (
+                            {post.type === "interview" && post.interview.map((interview, index) => (
                                 <div key={index}>
                                     <h2 className='interview-question'>{interview.question}</h2>
                                     <div className='blog-post-answer'>

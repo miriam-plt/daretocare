@@ -1,6 +1,6 @@
 import './index.scss';
-import { NavLink } from 'react-router-dom';
 import Navbar from '../../components/Navbar';
+import AllNews from '../../components/AllNews';
 import image from '../../images/corals.png';
 
 const Home = () => {
@@ -12,16 +12,14 @@ const Home = () => {
                     <h1 className='title title-top'>dare</h1> 
                     <img className='image-between' src={image} alt='between' />
                     <h1 className='title title-bottom'>to care</h1>
-                    <div className='section-1-phone'>
-                    <h5 className='subtitle2'>Art collective</h5>
-                    <NavLink to={'/about'}><button className='button-homepage2'>Read our manifesto →</button></NavLink>
-                    </div>
+                    <h5 className='subtitle'>art collective working on mental health</h5>
                 </div>
             </div>
-                <div className='section-1'>
-                    <h5 className='subtitle'>Art collective</h5>
-                    <NavLink to={'/about'}><button className='button-homepage'>Read our manifesto →</button></NavLink>
-                </div>  
+
+            <div className='section1-news'>
+                <AllNews />
+            </div> 
+
     </div>
 )}
 

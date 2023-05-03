@@ -1,0 +1,9 @@
+.news-title {
+    font-size: 35px;
+    font-family: 'Comfortaa', cursive;
+    text-align: left;
+    margin-top: 0px;
+    @media (max-width: 1025px) {
+        font-size: 28px;
+      }
+}

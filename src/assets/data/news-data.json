@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "002",
+        "type": "news",
+        "date": "june 2023",
+        "title": "Artists residency and exhibition in Myymälä2 Helsinki",
+        "description": "From June 30th to July 16th, Dare to Care Art Collective invites you to an exhibition with workshops and performances about physicality of emotions and bodily experiencing.",
+        "image": "../../images/news/news002/banner.jpg",
+        "image2": "../../images/news/news002/flyer.jpg",
+        "link": "https://www.myymala2.com/",
+        "linktext": "Please visit Myymälä2 webpage for further information.",
+        "details": "The international art collective Dare to Care is coming to Helsinki with an unreleased exhibition about mental health and the Arts, accompanied by workshops and performances. During a week-long residency at Myymälä2Gallery artists Miriam Poletti, Ania Duldiier and Cami Ruohonen will investigate the complex relationship between emotions, body and nature."
+    },
+    {
+       "_id": "001",
+       "type": "news",
+       "date": "february 2023",
+       "title": "Instagram Takeover x Mental Health Europe",
+       "description": "Mental Health Europe, Europe's number one mental health NGO, offered us its social media platform to present our work and the artists in our collective.",
+       "image": "../../images/news/news001/news001.png",
+       "image2": "../../images/news/news001/news002.jpg",
+       "link": "https://www.instagram.com/mentalhealtheurope/",
+       "linktext": "Please visit Mental Health Europe on Instagram to see all the posts.",
+       "details": "Mental Health Europe, Europe's number one mental health NGO, offered us its social media platform to present our work and the artists in our collective."
+    }
+]
