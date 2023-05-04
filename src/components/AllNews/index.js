@@ -13,7 +13,7 @@ function AllNews() {
                         <div>
                             <div className='news-card' key={news._id}>
                                 <div>
-                                    <img className='news-image' src={news.image} alt='news' />
+                                    <img className='news-image' src={news.images[0]} alt='news' />
                                 </div>
                                 <div className='news-info'>
                                     <p className='news-date'>{news.date}</p>

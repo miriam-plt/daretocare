@@ -23,13 +23,21 @@ function NewsInfo() {
                         
                             <div className='news-heading-container'>
                                 <h1 className='news-title'>{news.title}</h1>
+
                                 <h5 className='news-info-description'>{news.description}</h5>
-                                <p className='news-details'>{news.details}</p>
-                                <p className='news-link-container'> <a className='news-link' href={news.link} target="_blank" rel="noreferrer">{news.linktext}</a> </p>
+                                    {news.details.map((detail) => (
+                                        <p className='news-details'>{detail}</p>
+                                    ))}
+
+                                    {news.links.map((link, index) => (
+                                        <div key={index}>
+                                            <p className='news-details'>{link.linktext} <a className='news-link' href={link.link} target="_blank" rel="noreferrer">here.</a></p>
+                                        </div>
+                                    ))}
                             </div>
 
                             <div>
-                                <img className='news-image2' src={news.image2} alt='news' />
+                                <img className='news-image2' src={news.images[1]} alt='news' />
                             </div>
                 
                     </div>

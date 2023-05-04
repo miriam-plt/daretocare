@@ -2,25 +2,25 @@
     {
         "_id": "002",
         "type": "news",
-        "date": "june 2023",
+        "date": "june-july 2023",
         "title": "Artists residency and exhibition in Myymälä2 Helsinki",
-        "description": "From June 30th to July 16th, Dare to Care Art Collective invites you to an exhibition with workshops and performances about physicality of emotions and bodily experiencing.",
-        "image": "../../images/news/news002/banner.jpg",
-        "image2": "../../images/news/news002/flyer.jpg",
-        "link": "https://www.myymala2.com/",
-        "linktext": "Please visit Myymälä2 webpage for further information.",
-        "details": "The international art collective Dare to Care is coming to Helsinki with an unreleased exhibition about mental health and the Arts, accompanied by workshops and performances. During a week-long residency at Myymälä2Gallery artists Miriam Poletti, Ania Duldiier and Cami Ruohonen will investigate the complex relationship between emotions, body and nature."
+        "description": "Dare to Care members are going to Helsinki for a residency about artists' mental health.",
+        "images": ["../../images/news/news002/banner.jpg", "../../images/news/news002/flyer.jpg"],
+        "links": [{"link": "https://www.myymala2.com/",
+                "linktext": "Please visit Myymälä2 webpage for further information"}],
+        "details": ["From June 26th to July 2nd, Dare to Care artists Miriam Poletti, Ania Duldiier and Cami Ruohonen are taking part in a residency in Myymälä2 Gallery in Helsinki.", "The residency and the final exhibitions are curated by Dare to Care art collective with the help of Ramiro Camelo, curator and gallerist."]
     },
     {
        "_id": "001",
        "type": "news",
-       "date": "february 2023",
-       "title": "Instagram Takeover x Mental Health Europe",
-       "description": "Mental Health Europe, Europe's number one mental health NGO, offered us its social media platform to present our work and the artists in our collective.",
-       "image": "../../images/news/news001/news001.png",
-       "image2": "../../images/news/news001/news002.jpg",
-       "link": "https://www.instagram.com/mentalhealtheurope/",
-       "linktext": "Please visit Mental Health Europe on Instagram to see all the posts.",
-       "details": "Mental Health Europe, Europe's number one mental health NGO, offered us its social media platform to present our work and the artists in our collective."
+       "date": "february-april 2023",
+       "title": "Mental Health Europe Campaign",
+       "description": "Our collaboration with MHE to speak up about artists’ mental health.",
+       "images": ["../../images/news/news001/news001.png", "../../images/news/news001/news002.jpg"],
+       "links": [{"link": "https://www.mhe-sme.org/dare-to-care-art-collective-mental-health-awareness/",
+                "linktext": "You can read the full interview on MHE website"},
+                {"link": "https://www.instagram.com/mentalhealtheurope/",
+                "linktext": "You can visit MHE Instagram page to see all our posts"}],
+       "details": ["In January 2022 Dare to Care began a collaboration with Mental Health Europe. Through their Instagram platform, the artists of our collective shared artworks and reflections on their experience with mental health as art workers.", "The posts have been published between February and April 2023.", "As part of the visual campaign, an interview was published on the official MHE website in which members of the collective talk about how Dare to Care was founded, their motivations in participating in the project, its goals and its advocacy."]
     }
 ]
