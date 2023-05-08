@@ -20,6 +20,7 @@ function NewsInfo() {
         {selectedNews.map(news => {
             return (
                     <div className='news-info-container' key={news._id}>
+                    {window.scrollTo(0,0)}
                         
                             <div className='news-heading-container'>
                                 <h1 className='news-title'>{news.title}</h1>

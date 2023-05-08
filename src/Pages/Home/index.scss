@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap');
-
+@font-face {
+  font-family: 'CraftworkGrotesk';
+  src: local('CraftworkGrotesk'),
+  url('../../assets/fonts/CraftworkGrotesk-Regular.ttf');
+}
 
 
 .header {
@@ -82,15 +86,19 @@
 
 
   .subtitle {
+    font-family: 'CraftworkGrotesk';
+    text-align: end;
+    margin-right: 50px;
     font-size: 35px;
     font-weight: 300;
     width: 100vw;
-    margin-top: 90vh;
+    margin-top: 80vh;
     margin-left: 0px;
     color: #c6aba5;
     @media (max-width: 1025px) {
       font-size: 20px;
-      margin-top: 70vh;
+      margin-top: 65vh;
+      margin-right: 20px;
     }
   }
 

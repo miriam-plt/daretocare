@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'CraftworkGrotesk';
+  src: local('CraftworkGrotesk'),
+  url('../../assets/fonts/CraftworkGrotesk-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'CraftworkGroteskBold';
+  src: local('CraftworkGrotesk'),
+  url('../../assets/fonts/CraftworkGrotesk-Bold.ttf');
+}
+
 .nav-bar {
     padding-top: 8px;
     padding-bottom: 10px;
@@ -25,6 +37,7 @@
   .nav-link {
     color: white;
     text-decoration: none;
+    font-family: 'CraftworkGrotesk';
     margin-right: 20px;
     margin-left: 20px;
     @media (max-width: 1025px) {
@@ -35,7 +48,7 @@
 
 
   .selected {
-    font-weight: 800;
+    font-family: 'CraftworkGroteskBold';
   }
 
   ul {
