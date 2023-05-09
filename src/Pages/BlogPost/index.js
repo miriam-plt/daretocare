@@ -2,6 +2,7 @@ import './index.scss';
 import { useParams } from 'react-router-dom';
 import Navbar from '../../components/Navbar';
 import PostData from '../../assets/data/blog-data.json';
+import Footer from '../../components/Footer';
 
 function BlogPost() {
     const { id } = useParams();
@@ -53,6 +54,10 @@ function BlogPost() {
                     </div>
             )
         })}
+        </div>
+
+        <div>
+            <Footer />
         </div>
        
     </div>

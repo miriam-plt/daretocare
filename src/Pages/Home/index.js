@@ -1,6 +1,7 @@
 import './index.scss';
 import Navbar from '../../components/Navbar';
 import AllNews from '../../components/AllNews';
+import Footer from '../../components/Footer';
 import '../../assets/fonts/CraftworkGrotesk-Regular.ttf';
 
 const Home = () => {
@@ -18,6 +19,10 @@ const Home = () => {
             <div className='section1-news'>
                 <AllNews />
             </div> 
+
+        <div>
+            <Footer />
+        </div>
 
     </div>
 )}

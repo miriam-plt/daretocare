@@ -2,6 +2,7 @@ import './index.scss';
 import { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 import Navbar from '../../components/Navbar';
+import Footer from '../../components/Footer';
 
 const Contact = () => {
     const form = useRef();
@@ -50,6 +51,9 @@ const Contact = () => {
                     <p className='status-message'>{statusMessage}</p>
                 </ul>
             </form>
+        </div>
+        <div>
+            <Footer />
         </div>
         </div>
             

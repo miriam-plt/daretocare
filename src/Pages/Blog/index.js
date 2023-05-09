@@ -1,6 +1,7 @@
 import './index.scss';
 import Navbar from '../../components/Navbar';
 import Posts from '../../components/Posts';
+import Footer from '../../components/Footer';
 
 const Blog = () => {
     return (
@@ -16,6 +17,10 @@ const Blog = () => {
         </div>
     
     <Posts />
+
+    <div>
+        <Footer />
+    </div>
 
     </div>
 )}

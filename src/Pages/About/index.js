@@ -5,6 +5,7 @@ import Navbar from '../../components/Navbar';
 import Team from '../../components/Team';
 import Partners from '../../components/Partners';
 import Testimonials from '../../components/Testimonials';
+import Footer from '../../components/Footer';
 
 const About = () => {
 
@@ -67,9 +68,13 @@ const About = () => {
             </div>
 
             <div className='testimonials'>
-                    <Testimonials />
+                <Testimonials />
             </div>
 
+        </div>
+
+        <div>
+            <Footer />
         </div>
 
     </div>
