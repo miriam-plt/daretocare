@@ -57,7 +57,7 @@ const About = () => {
         </div>
         
         <div className='partners-container'>
-                <h6 className='category-title about-category-title'>Our Partners</h6>
+                <h6 className='category-title about-category-title'>We have collaborated with</h6>
                 <Partners />
 
         </div>

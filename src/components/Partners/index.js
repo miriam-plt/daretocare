@@ -13,7 +13,7 @@ function Partners() {
                         <div className='partner-info'>
                         <Partner key={partner._id} className='partner-name' partner={partner} />
                         </div>
-                        <a href={partner.link} target="_blank" rel="noreferrer" title={partner.name}><img className='partner-logo' src={partner.logo} alt='partner' /> </a>                                                      
+                        <a className='partner-link' href={partner.link} target="_blank" rel="noreferrer" > {partner.name} </a>                                                      
                     </div>
                 )
             })}

@@ -1,8 +1,27 @@
 [
     {
+        "_id": "axisweb",
+        "name": "Axisweb",
+        "link": "https://www.axisweb.org/",
+        "logo": ""
+    },
+    {
        "_id": "destructura",
        "name": "De Structura",
        "link": "https://destructura.com/",
        "logo": "../../images/partners/destructura-logo.png"
+    },
+    {
+        "_id": "mhe",
+        "name": "Mental Health Europe",
+        "link": "https://www.mhe-sme.org/",
+        "logo": ""
+    },
+    {
+        "_id": "myymala",
+        "name": "Myymälä2",
+        "link": "https://www.myymala2.com/",
+        "logo": ""
     }
+     
 ]
