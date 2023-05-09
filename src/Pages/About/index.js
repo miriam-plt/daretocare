@@ -1,5 +1,4 @@
 import './index.scss';
-import { AnimationOnScroll } from 'react-animation-on-scroll';
 import Lottie from 'react-lottie-player';
 import lottieJson from '../../../src/assets/data/40587-scroll.json';
 import Navbar from '../../components/Navbar';
@@ -52,21 +51,14 @@ const About = () => {
         </div>
 
         <div className='team-container'>
-            <AnimationOnScroll animateIn="animate__fadeInLeft">
-                <h6 className='category-title about-category-title'>Meet the team</h6>
-            </AnimationOnScroll>
-            <AnimationOnScroll animateIn="animate__fadeInRight">
+                <h6 className='category-title about-category-title team-title'>Meet the team</h6>
                 <Team />
-            </AnimationOnScroll>
         </div>
         
         <div className='partners-container'>
-            <AnimationOnScroll animateIn="animate__fadeInLeft">
                 <h6 className='category-title about-category-title'>Our Partners</h6>
-            </AnimationOnScroll>
-            <AnimationOnScroll animateIn="animate__fadeInRight">
                 <Partners />
-            </AnimationOnScroll>
+
         </div>
 
         <div className='testimonials-container'>
@@ -75,9 +67,7 @@ const About = () => {
             </div>
 
             <div className='testimonials'>
-                <AnimationOnScroll animateIn="animate__fadeInRight">
                     <Testimonials />
-                </AnimationOnScroll>
             </div>
 
         </div>

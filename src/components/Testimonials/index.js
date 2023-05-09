@@ -18,7 +18,7 @@ const Testimonials = () => {
     }
 
     return (
-        <div className='testimonial-container'>
+        <div className='testimonials-box'>
             {TestimonialsData.filter(testimonial => testimonial._id === selectedId).map(testimonial => {
                 return (
                     <div className='testimonial-card' key={testimonial._id}>
@@ -29,8 +29,10 @@ const Testimonials = () => {
                 )
             })}
 
-            <img className='arrow' src={arrowLeft} alt='arrow-left' onClick={handleClick1}/>
-            <img className='arrow' src={arrowRight} alt='arrow-right' onClick={handleClick2} />
+            <div className='arrows'>
+                <img className='arrow' src={arrowLeft} alt='arrow-left' onClick={handleClick1}/>
+                <img className='arrow' src={arrowRight} alt='arrow-right' onClick={handleClick2} />
+            </div>
             
             
         </div>

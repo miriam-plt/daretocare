@@ -19,7 +19,7 @@ function BlogPost() {
                     <div className='blog-post-container' key={post._id}>
                         
                             <div className='blog-heading-container'>
-                                <h1 className='category-title blog-title'>{post.title}</h1>
+                                <h1 className='category-title blog-post-title'>{post.title}</h1>
                             </div>
 
                         <div className='blog-post-section1'>

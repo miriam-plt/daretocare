@@ -12,6 +12,15 @@
     }
 }
 
+.blog-post-title {
+    max-width: fit-content;
+    margin-top: 200px;
+    margin-left: 102px;
+    @media (max-width: 1025px) {
+        margin-left: 40px;
+    }
+}
+
 .blog-post-image {
     width: 450px;
     @media (max-width: 1025px) {

@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'CraftworkGrotesk';
+    src: local('CraftworkGrotesk'),
+    url('../../assets/fonts/CraftworkGrotesk-Regular.ttf');
+  }
+
 .nav-backround {
     height: 60px;
 }
@@ -24,6 +30,7 @@
 }
 
 .news-info-description {
+    font-family: 'CraftworkGrotesk';
     font-size: 40px;
     font-weight: 200;
     @media (max-width: 1025px) {
@@ -56,4 +63,9 @@
         margin-top: 60px;
         margin-bottom: 120px;
       }
+}
+
+.news-title {
+    font-size: 40px;
+    text-transform: uppercase;
 }

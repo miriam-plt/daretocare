@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap');
+@font-face {
+    font-family: 'CraftworkGrotesk';
+    src: local('CraftworkGrotesk'),
+    url('../../assets/fonts/CraftworkGrotesk-Regular.ttf');
+  }
 
 
 .about-page {
@@ -56,11 +61,13 @@
 }
 
 .category-title {
-    font-family: 'Comfortaa', cursive;
-    font-size: 40px;
+    font-family: 'CraftworkGrotesk';
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 50px;
     margin-top: 0;
     margin-bottom: 0;
-    animation: fadeInLeft 1s 0.5s both;
+    text-align: end;
     @media (max-width: 1025px) {
         width: 300px;
         font-size: 30px;
@@ -71,24 +78,27 @@
 
 .about-category-title {
     width: 500px;
-}
-
-.animate__fadeInLeft {
-    max-width: 500px;
+    @media (max-width: 1025px) {
+        max-width: 300px;
+        margin-left: 40px;
+        text-align: center;
+    }
 }
 
 .manifesto-title {
-    margin-top: 4.5em;
+    margin-top: 4em;
+    animation: fadeInLeft 1s 0.5s both;
 }
 
 .manifesto {
     text-align: justify;
     text-justify: inter-word;
+    font-size: 18px;
     width: 60%;
     margin-bottom: 6em;
-    margin-top: 12em;
+    margin-top: 10em;
+    margin-left: 50px;
     animation: fadeInRight 1s 0.5s both;
-
     @media (max-width: 1025px) {
         margin-left: 10%;
         width: 80%;
