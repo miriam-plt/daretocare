@@ -15,12 +15,12 @@
        "type": "news",
        "date": "february-april 2023",
        "title": "Mental Health Europe Campaign",
-       "description": "Our collaboration with MHE to speak up about artists’ mental health.",
-       "images": ["../../images/news/news001/news001.png", "../../images/news/news001/news002.jpg"],
+       "description": "We collaborated with Mental Health Europe to speak about artists’ mental health and present our work.",
+       "images": ["../../images/news/news001/news001.png", "../../images/news/news001/news002.gif"],
        "links": [{"link": "https://www.mhe-sme.org/dare-to-care-art-collective-mental-health-awareness/",
                 "linktext": "You can read the full interview on MHE website"},
                 {"link": "https://www.instagram.com/mentalhealtheurope/",
                 "linktext": "You can visit MHE Instagram page to see all our posts"}],
-       "details": ["In January 2023 Dare to Care began a collaboration with Mental Health Europe. Through their Instagram platform, the artists of our collective shared artworks and reflections on their experience with mental health as art workers.", "The posts have been published between February and April 2023.", "As part of the visual campaign, an interview was published on the official MHE website in which members of the collective talk about how Dare to Care was founded, their motivations in participating in the project, its goals and its advocacy."]
+       "details": ["Starting in January 2023, Dare to Care began a collaboration with Mental Health Europe. Through their Instagram platform, the artists from our collective shared artworks and reflections on their experience with mental health as art practitioners.", "The posts feature the artworks and reflections of Madeleina Kay, Miriam Poletti, Cami Ruohonen, Ewa Rybojad, Magdalena Rybojad and Ania Duldiier. They were published between February and April 2023 on @mentalhealtheurope.", "As part of the visual campaign, an interview was published on the official website of Mental Health Europe in which the members of the collective, Kristýna Ilek, Mathilde Palenius and Elena Righini, talk about how Dare to Care was founded, their motivations for participating in the project, its objectives and its advocacy."]
     }
 ]
