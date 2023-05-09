@@ -1,16 +1,7 @@
-@font-face {
-  font-family: 'CraftworkGrotesk';
-  src: local('CraftworkGrotesk'),
-  url('../../assets/fonts/CraftworkGrotesk-Medium.ttf');
-}
 
-@font-face {
-  font-family: 'CraftworkGroteskBold';
-  src: local('CraftworkGrotesk'),
-  url('../../assets/fonts/CraftworkGrotesk-Bold.ttf');
-}
 
 .nav-bar {
+    margin-top: 7px;
     padding-top: 8px;
     padding-bottom: 10px;
     overflow: visible;
@@ -25,7 +16,7 @@
   }
 
   .logo {
-    width: 40px;
+    width: 50px;
     margin-left: 20px;
     margin-top: 10px;
   }
@@ -35,9 +26,8 @@
   }
 
   .nav-link {
-    color: white;
+    color: black;
     text-decoration: none;
-    font-family: 'CraftworkGrotesk';
     margin-right: 20px;
     margin-left: 20px;
     @media (max-width: 1025px) {
@@ -48,12 +38,22 @@
 
 
   .selected {
-    font-family: 'CraftworkGroteskBold';
+    font-weight: 800;
+  }
+
+  .nav-links {
+    border-radius: 25px;
+    padding: 10px;
+    margin-right: 10px;
+    background-image: url("../../images/background2.jpg");
+    background-size: cover;
+    background-position: center;
   }
 
   ul {
-    list-style:none;
+    list-style: none;
   }
+
   ul li{
     display:inline-block; 
     padding:0 7px; 
@@ -61,7 +61,7 @@
   }
   ul li:not(:last-child)::after{
     content: ""; 
-    border: 1px solid white;
+    border: 1px solid rgb(99, 99, 99);
     border-width: 1px 1px 0 0;
     position: absolute; 
     right: -3px; 

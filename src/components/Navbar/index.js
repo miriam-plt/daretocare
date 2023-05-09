@@ -1,6 +1,6 @@
 import './index.scss';
 import { Link, NavLink } from 'react-router-dom';
-import Logo from '../../images/logo19.png';
+import Logo from '../../images/logo-color6.png';
 
 const Navbar = () => {
     return <div className='nav-container'>

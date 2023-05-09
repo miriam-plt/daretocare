@@ -8,18 +8,19 @@
 
 
 .header {
-  background-image: url("../../images/background-text.jpg");
+  background-image: url("../../images/background-corals5.jpg");
   background-size: cover;
   background-position: center;
+  @media (max-width: 1025px) {
+    background-image: url("../../images/background-corals24.jpg");
+  }
 }
 
 .header-content {
   display: flex;
+  flex-direction: column;
   width: 100vw;
-  height: 100vh;
-  @media (max-width: 1025px) {
-    height: 80vh;
-  }
+  height: fit-content;
 }
   
   .title {
@@ -28,77 +29,54 @@
     margin-bottom: 0px;
     margin-top: 0px;
     background-clip: text;
-    background: -webkit-radial-gradient(#849fba, #d8bcb8, #666f69);
+    background: -webkit-radial-gradient(#d8bcb8, #666f69);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    
-    
     @media (max-width: 1025px) {
       font-size: 80px;
-      margin-bottom: 0px;
     }
     @media screen and (min-width: 1025px) {
       font-size: 150px;  
     }
     @media screen and (min-width: 1750px) {
-      font-size: 230px;
+      font-size: 200px;
     }
   }
 
   .title-top {
     animation: fadeInRight 2s 0.5s both;
-    position: absolute;
+    text-align: left;
     margin-top: 10%;
     margin-left: 2%;
-    z-index: 0;
     @media (max-width: 1025px) {
       margin-top: 30%;
     }
   }
 
   .title-bottom {
-    margin-top: 23%;
-    margin-left: 50%;
     animation: fadeInLeft 2s 0.5s both;
-    position: absolute;
-    z-index: 3;
-    padding-top: 110px;
+    width: 96vw;
+    text-align: end;
     @media (max-width: 1025px) {
-      margin-top: 85%;
-      margin-left: 20%;
+      margin-top: 300px;
     }
   }
 
-  .image-between {
-    width: 40%;
-    position: absolute;
-    z-index: 2;
-    margin-left: 27%;
-    margin-top: 5%;
-    opacity: 0.8;
-    @media (max-width: 1025px) {
-      margin-bottom: 0px;
-      width: 100%;
-      margin-left: 0%;
-      margin-top: 35%;
-    }
-  }
+
 
 
   .subtitle {
     font-family: 'CraftworkGrotesk';
     text-align: end;
     margin-right: 50px;
+    margin-bottom: 120px;
     font-size: 35px;
     font-weight: 300;
-    width: 100vw;
-    margin-top: 80vh;
-    margin-left: 0px;
+    animation: fadeInLeft 2s 0.5s both;
+    width: 96vw;
     color: #c6aba5;
     @media (max-width: 1025px) {
       font-size: 20px;
-      margin-top: 65vh;
-      margin-right: 20px;
     }
   }
 
