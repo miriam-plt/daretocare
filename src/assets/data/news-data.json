@@ -1,5 +1,16 @@
 [
     {
+        "_id": "004",
+        "type": "news",
+        "date": "june 2023",
+        "title": "Shoulder to Shoulder: Sewing circle",
+        "description": "Workshop by Miriam Poletti, part of ‘On the Texture of Feelings‘.",
+        "images": ["../../images/news/news004/horizontal.jpg", "../../images/news/news004/vertical.jpg"],
+        "links": [{"link": "https://forms.gle/prhNnt4XebjbTWwV7",
+                "linktext": "Participation is free of charge. As the number of participants is limited, a binding registration must be made in advance via our registration form by 25 June "}],
+        "details": ["𝑆ℎ𝑜𝑢𝑙𝑑𝑒𝑟 𝑡𝑜 𝑆ℎ𝑜𝑢𝑙𝑑𝑒𝑟: 𝑠𝑒𝑤𝑖𝑛𝑔 𝑐𝑖𝑟𝑐𝑙𝑒 workshop by Miriam Poletti", "📅 28 June, 17:00 EEST", "📍 Töölö Library, 4th floor, sewing room/Ompeluhuone, Topeliuksenkatu 6, 00250 Helsinki", "What does it mean to be an artist in a global economy marked by precarity and insecurity? How do working conditions affect one's mental health? And how do bodies react to accumulated stress and anxiety? These and other questions will be addressed in the participatory workshop 'Shoulder to Shoulder'. Artist Miriam Poletti invites art workers living in Helsinki to participate in a sewing circle in which they will connect the threads of their personal experiences.", "No prior sewing experience necessary!", "This event is part of 'On the Texture of Feelings‘ residency and exhibition at Myymälä2, Helsinki, 30 June - 16 July 2023."]
+    },
+    {
         "_id": "003",
         "type": "news",
         "date": "june-july 2023",
