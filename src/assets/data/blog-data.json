@@ -6,7 +6,7 @@
        "title": "Interview for Mental Health Europe Blog",
        "description": "Kristýna Ilek interviewed Elena Righini and Mathilde Palenius about their experience with mental health in their careers and their motivation to join Dare to Care.",
        "image": "../../images/blog/blog001/blog-image.jpg",
-       "credits": "Ewa Rybojad, “Bending Self” 2022",
+       "credits": "Credits: Ewa Rybojad, “Bending Self” 2022",
        "link": "https://www.mhe-sme.org/dare-to-care-art-collective-mental-health-awareness/",
        "linktext": "This interview was originally published on Mental Health Europe Blog.",
        "intro": "My name is Kristýna Ilek, I am based in Prague, and as the group’s dramaturg I interviewed our producer Mathilde Palenius and curator Elena Righini who are also involved in the management of the project. Mathilde is currently responding from Finland and Elena from Italy.",
@@ -38,5 +38,84 @@
             "person2": "MP",
             "answer2": "I would firstly like our website to be a sustainable and trustworthy platform which would be a place for exchange, collecting testimonies and sharing efforts which would contribute to improvement of mental health conditions in the arts. I would also like us to develop cross-disciplinary practices in a dialogue with scientists to shed more light on mental health issues. Lastly, I would like to raise awareness about the working conditions in the arts beyond the field."
         }]
-    }
+    },
+
+    {
+        "_id": "002",
+        "type": "interview",
+        "tags": ["interview"],
+        "title": "Mental hygiene for theatre students, a rare initiative by Czech group Just Monkeys",
+        "image": "../../images/blog/blog002/blog-image.jpg",
+        "credits": "From left to right Vendula Ježková, Angelika Sbouli and Karolína Hýsková, credits Just Monkeys.",
+        "intro": "Kristýna Ilek from Dare to Care Art Collective interviewed members of Czech theatre group, Just Monkeys; Angelika Sbouli, Karolína Hýsková and Vendula Ježková, the organisers of ‘Mental hygiene for students of acting’ course. Just Monkeys is a group who focus on experimental theatre courses and workshops and community work.",
+        "interview": [{
+             "question": "Why did you decide to work together on the ‘Mental hygiene for students of acting’ course and why is mental hygiene important for you?",
+             "person": "VJ",
+             "answer": "Angelika initiated the collaboration and brought us together. During the covid pandemic, we spent hours of online discussions about our experiences in the acting industry. I believe that it is important for artists to be aware of the risks associated with the profession and to thrive not only in our professional lives but in our personal lives as well.",
+             "person2": "KH",
+             "answer2": "I graduated from the Music and Drama department at the Janáček Conservatoire in Ostrava and I felt that this subject was missing in my education. I lacked the methods of mental hygiene in my own acting practice. I sought individual therapy only when I experienced health and psychological problems, which is unnecessarily too late. When I met Angelika and Vendula, we agreed that there is not enough mental health care for acting students, so we created this programme.",
+             "person3": "AS",
+             "answer3": "We decided to collaborate because we consider this issue urgent. It is important for me personally, because I began studying acting at the Prague Conservatoire and later studied psychology. Only then did I understand what was happening at the conservatoire and how it negatively impacted my development. When you study at a conservatoire in the Czech Republic, you are between 14 and 18 years of age, which is a very sensitive, demanding, and crucial period."
+         },
+         {
+             "question": "Why do you think studying acting is mentally challenging?",
+             "person": "VJ",
+             "answer": "Students in secondary schools, university-level art schools and academies are selected through talent exams. From my experience and observations, young people who exhibit heightened sensitivity and openness, which is often accompanied by vulnerability, are admitted. However, during their studies, they do not receive adequate support.",
+             "person2": "AS",
+             "answer2": "At the secondary level of art education, students are not at a developmental stage when they can meet the school's demands safely. Overwhelming students can lead to mental health difficulties.",
+             "person3": "KH",
+             "answer3": "It is demanding in many ways. Conservatoires are extremely time-consuming. The schedule is from morning till evening, often without a lunch break. The courses often do not address the immaturity of minors in creative subjects such as acting, artistic performance, etc. This can lead to, for example, addictive behaviour among students."
+         },
+         {
+            "question": "What do students learn in the Mental hygiene course?",
+            "person": "AS",
+            "answer": "The most fundamental aspect of the course is raising students’ awareness about specificities of studying at a conservatoire and how it differs from studying at a general secondary school. We look for ways of studying acting safely. We put emphasis on one’s inner life, specific emotions that are important to be in touch with and techniques of decision-making and behaviour with regards to these emotions.",
+            "person2": "KH",
+            "answer2": "The course provides a theoretical understanding of humans as psycho-physio-socio-spiritual beings; we learn some general vocabulary from this context and conduct practical psycho-hygienic exercises with a focus on artistic work.",
+            "person3": "VJ",
+            "answer3": "I dedicate a part of the course to working on both group and individual mind maps. During the exercises, students focus on identifying what they consider necessary for achieving safety in their studies at the conservatoire. What works for one student might not be good for another and it is necessary for students to ask themselves: ‘What do I need to feel well?’ and take action accordingly. We also discuss the skills and abilities developed during the actors’ training and learn how to identify self-imposed demands when handling assignments and finding balance and boundaries."
+        },
+        {
+            "question": "Why do you think such a course is necessary? Is mental hygiene not a part of the curriculum in art schools in the Czech Republic?",
+            "person": "KH",
+            "answer": "Mental hygiene is not included in any courses at art schools. From the feedback from students, we know that they really appreciate the focus of our course.",
+            "person2": "AS",
+            "answer2": "I am not aware of mental hygiene being formally included in the curriculum at art schools. I know that it is not practically implemented. Unfortunately, even teachers are not familiar with psycho-hygienic tools. I would compare the situation to intergenerational transmission of trauma. If I, as a teacher, was for instance humiliated and sexualised in the past, then I am likely to replicate similar behaviour with my students.",
+            "person3": "VJ",
+            "answer3": " I would like to expand on what Angelika said. Teachers at art schools are not only educators but also practitioners but they often lack pedagogical training. Art education in the Czech Republic is experiential, but supervision after rehearsals is not required. There is only the artist (the teacher) and their students in the room. There is no specific teaching methodology required, and the situation for teachers is very demanding; they are essentially on their own in the process. Furthermore, any support for teachers would need to be carefully considered and prepared so that they don't feel ‘under surveillance’. In our field, we are very sensitive to ‘art under surveillance’ due to our historical experience with censorship, which is present in art schools as well. Country-wide curricula no longer exist in the Czech Republic. Each school has its own individual educational programme."
+        },
+        {
+            "question": "Why did you decide to work specifically with students from secondary art schools?",
+            "person": "KH",
+            "answer": "We perceive this group as the most vulnerable from a psychological standpoint",
+            "person2": "AS",
+            "answer2": "From our experience, in secondary art schools, students are not provided with any tools, support, and education about mental hygiene. As I mentioned, secondary art schools are very demanding for students and it is often impossible for them to fulfil the school’s requirements safely.",
+            "person3": "VJ",
+            "answer3": "For me, young students take responsibility for themselves and are attentive to their needs and boundaries. I am captivated by their sensitivity, and once they are given space, they flourish. They are much more respectful than my generation and are much more aware of their emotions."
+        },
+        {
+            "question": "Based on your experience, what mental health issues do students struggle with the most? Can you identify the most common problem and what causes it?",
+            "person": "KH",
+            "answer": "Students often struggle with high levels of exhaustion, overwork, and an inability to consciously rest. This translates into their lives outside and after school.",
+            "person2": "AS",
+            "answer2": "They experience excessive psychological burden accompanied by intense time pressure. I have seen anxiety, emotional detachment, addictions, unhealthy coping strategies, and other issues.",
+            "person3": "VJ",
+            "answer3": "What scares me the most is the students’ low self-esteem and helplessness, which is very common. From my experience, this is caused by constantly comparing oneself to other actors and neglecting one’s own needs and boundaries while developing a character or a performance."
+        },
+        {
+            "question": "What are your plans with ‘Mental hygiene for students of acting’ course?",
+            "person": "KH",
+            "answer": "Our goal is to integrate the course into the curriculum of Czech conservatoires. Until that happens, we will expand the course for other students from different years and other schools. There are countless topics to cover.",
+            "person2": "AS",
+            "answer2": "We currently do not have any external support so we are unsure exactly how this goal will materialise. Nevertheless, we are actively searching for ways to continue and we will not give up.",
+            "person3": "VJ",
+            "answer3": "I agree, we have this long-term vision. We are happy to see other initiatives in artists’ mental health, like Dare to Care. It is a great motivation for us to know that we are not alone in this. We wish you the best of luck."
+        }],
+        "bio": [{
+            "bio1": "Mgr. Angelika Sbouli, DiS. graduated from the Prague Conservatoire, specialising in musical drama. During her studies, she started performing in theatres in Prague and other cities, such as Divadlo pod Palmovkou and Moravské divadlo Olomouc. Currently, she is involved with Divadlo Na Fidlovačce. In addition to her theatre work, she pursued a degree in Psychology and currently works as a school psychologist. Her main area of interest is education in relation to mental health.",
+            "bio2": "BcA. Karolína Hýsková, DiS. graduated from the musical-dramatic program at the Janáček Conservatoire in Ostrava and the Cultural Dramaturgy program with a focus on theatre at the Silesian University in Opava. She has performed as a guest artist at Komorní scéna Aréna, Divadlo Jiřího Myrona, Divadlo loutek Ostrava, Moravské divadlo Olomouc, Slezské divadlo Opava, and Divadlo Šumperk. She leads theatre and movement workshops, summer camps, cultural centres, and dance groups. Since September 2018, she has been a member of the puppet theatre company Divadlo loutek. Since 2019, she has been teaching acting courses as part of the B subject at Ostrava University. She also teaches stage movement at the Janáček Conservatoire in Ostrava.",
+            "bio3": "MgA. Vendula Ježková, Ph.D. has a Ph.D. in Dramatic Arts (Acting) from the Janáček Academy of Performing Arts. She completed an internship in dramatic and film acting at the Film School in Łódź, Poland, in 2004. Her career encompasses collaborations with the Psychosomatic Clinic in Prague 6, where she engages in Creative Play, as well as contributions to educational projects with respected entities like the Ministry of Culture - NIPOS Artama, the National Pedagogical Institute of the Czech Republic, Prague Innovation Institute. She is the founder of the democratic theatre platform Just Monkeys z.s. She worked as an actor at Divadlo Husa na provázku, Divadlo pod Palmovkou, Městské divadlo Brno, Divadlo Aréna in Bratislava, Divadlo SkRAT, and Divadlo Orfeus."
+        }],
+        "notes": "The article was written as an interview with Dare to Care Art Collective. It was translated and edited by Kristýna Ilek, proofread by Madeleina Kay."
+     }
 ]

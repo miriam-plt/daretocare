@@ -26,11 +26,11 @@ function BlogPost() {
                         <div className='blog-post-section1'>
                             <div>
                                 <img className='blog-post-image' src={post.image} alt='main' />
-                                {post.credits && <p className='blog-post-image-credits'>Credits: {post.credits}</p>}
+                                {post.credits && <p className='blog-post-image-credits'>{post.credits}</p>}
                             </div>
 
                             <div className='blog-post-intro-text'>
-                                <h4 className='blog-post-link'>{post.linktext} <a href={post.link} target="_blank" rel="noreferrer">Read it here</a> </h4>
+                                {post.link && <h4 className='blog-post-link'>{post.linktext} <a href={post.link} target="_blank" rel="noreferrer">Read it here</a> </h4>}
                                 <h3 className='post-intro'>{post.intro}</h3>
                             </div>
                         </div>
@@ -43,13 +43,32 @@ function BlogPost() {
                                         <h2 className='interview-person'>{interview.person}</h2>
                                         <p className='interview-answer'>{interview.answer}</p>
                                     </div>
-                                    <div className='blog-post-answer'>
+                                    {interview.person2 && <div className='blog-post-answer'>
                                         <h2 className='interview-person'>{interview.person2}</h2>
                                         <p className='interview-answer'>{interview.answer2}</p>
-                                    </div>
+                                    </div>}
+                                    {interview.person3 && <div className='blog-post-answer'>
+                                        <h2 className='interview-person'>{interview.person3}</h2>
+                                        <p className='interview-answer'>{interview.answer3}</p>
+                                    </div>}
                                 </div>
                             ))}
                         </div>
+
+                        {post.bio && <div className='blog-post-section3'>
+                        <h4 className='bios-title'>Bios</h4>
+                            {post.bio.map((bio, index) => (
+                                <div key={index}>
+                                    <div className='blog-post-bio'>
+                                        <p className='bio'>{bio.bio1}</p>
+                                        {bio.bio2 && <p className='bio'>{bio.bio2}</p>}
+                                        {bio.bio3 && <p className='bio'>{bio.bio3}</p>}
+                                    </div>
+                                </div>
+                            ))}
+                        </div>}
+
+                        {post.notes && <div className='blog-post-section4'>{post.notes}</div>}
                 
                     </div>
             )

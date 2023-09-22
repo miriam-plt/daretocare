@@ -16,6 +16,7 @@
     max-width: fit-content;
     margin-top: 200px;
     margin-left: 102px;
+    margin-right: 102px;
     border: 2px solid transparent;
     @media (max-width: 1025px) {
         margin-left: 40px;
@@ -70,7 +71,7 @@
     }
 }
 
-.interview-question {
+.interview-question, .bios-title {
     font-family: 'Comfortaa', cursive;
 }
 
@@ -88,4 +89,16 @@
 .blog-post-answer {
     display: flex;
     align-items: baseline;
+}
+
+.blog-post-section3, .blog-post-section4 {
+    margin-left: 102px;
+    margin-right: 102px;
+    margin-bottom: 100px;
+    text-align: left;
+    animation: fadeInUp 2s 0.5s both;
+    @media (max-width: 1025px) {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 }
