@@ -1,46 +1,53 @@
 [
     {
-       "_id": "001",
-       "type": "interview",
-       "tags": ["interview", "members"],
-       "title": "Interview for Mental Health Europe Blog",
-       "description": "Kristýna Ilek interviewed Elena Righini and Mathilde Palenius about their experience with mental health in their careers and their motivation to join Dare to Care.",
-       "image": "../../images/blog/blog001/blog-image.jpg",
-       "credits": "Credits: Ewa Rybojad, “Bending Self” 2022",
-       "link": "https://www.mhe-sme.org/dare-to-care-art-collective-mental-health-awareness/",
-       "linktext": "This interview was originally published on Mental Health Europe Blog.",
-       "intro": "My name is Kristýna Ilek, I am based in Prague, and as the group’s dramaturg I interviewed our producer Mathilde Palenius and curator Elena Righini who are also involved in the management of the project. Mathilde is currently responding from Finland and Elena from Italy.",
-       "interview": [{
-            "question": "Firstly, I would like to ask you both why did you decide to join the project? What made you think this was an important initiative to be a part of?",
+        "_id": "003",
+        "type": "interview",
+        "tags": ["interview"],
+        "title": "Creativity as a cyclical force of nature and artists’ well-being",
+        "description": "Interview at Michela Pessot, doctor and psychiatrist, about creativity and mental health.",
+        "image": "../../images/blog/blog003/blog-image.jpg",
+        "credits": "Michela: With gratitude, I would like to share a quote from my analyst, Ugo Fama, who comments on one of my paintings as follows: ‘We should be grateful to art and artists, these modern “alchemists” who, through their “creative affliction”, help us understand and hope.’ ‘Lucciole al Solstizio d’Estate’ by Michela Pessot (etching and aquatint, 2021)",
+        "intro": "Cami Ruohonen and Kristýna Ilek from Dare to Care Art Collective interviewed Michela Pessot about creativity and mental health. Michela Pessot is a doctor and psychiatrist who specialises in complementary medicines such as phytotherapy (treatment with plants and herbs) and homoeopathy. She treats various mental health conditions, including psychiatric disorders, chronic degenerative diseases, oncological conditions, and behavioural disorders in children and adolescents. Additionally, Michela founded the Hildegarda Medical Center in Turin, Italy where she practises her holistic approach to healing.",
+        "interview": [{
+             "question": "What is your relationship to mental health and art?",
+             "person": "MP",
+             "answer": "My relationship with mental health and art is long and complex. My aunt Anna became mentally ill at a young age. She was diagnosed with schizophrenia, which destructures and disintegrates one’s ego. She attended the Academy of Fine Arts in Turin and was a great painter. The illness unfortunately interrupted the course of her life. I remember her either through her stays in the asylum or through her beautiful paintings hanging on the walls in my childhood home. I created a beautiful and serene relationship with her through my childhood and adolescence. When I was in high school, Anna passed away but she left me with a connection to art and mental health which accompanies me to this day. During middle school I became passionate about art and dreamt of enrolling in an art school. Unfortunately, due to my family’s choice influenced by aunt Anna’s story, it was not meant to be. As an adult, doctor and psychiatrist, I began painting with watercolour, sculpting and etching. Being creative allows me to refocus, find myself, believe in the future and dream after long and tiring hours of working as a psychiatrist. Then I brought artistic practice as an activity for psychiatric patients. We focus mostly on sculpting with clay, which to me is instinctive and spontaneous and it allows patients to project their feelings and emotions onto their work."
+         },
+         {
+             "question": "Could you explain to us, how does creativity work from your experience and practice?",
+             "person": "MP",
+             "answer": "It is well known that intuition and creativity are linked to the right hemisphere of the brain. However, during my studies of medicine, neurology and psychiatry, I found no significant research on how creativity develops and organises itself from an anatomical and physiological point of view. Neuroscience, in recent decades, demonstrated the plasticity of the brain. Even in adulthood and old age, we can create and remodel brain synapses to respond to the external environment. Simply put, the more positive stimuli we have, for instance art, music or contact with nature, the more synapses and connections we can create. Intuition and creativity are the result of a very plastic mind. Creativity can also be understood as a form of energy. It develops when we are subjected to creative stimuli from early childhood. Artists have highly developed creativity-related brain functions which can be increased through meditative techniques. From my experience as a psychiatrist and an artist, creative energy is characterised by cyclicity. Creating means expansion; it is the growth of a project or of a work, which is inevitably followed by the mourning that characterises every realisation. In order to continue creating, one must be aware that it is necessary to go through a symbolic death and mourning each time. If the creator goes against this process, it might cause mental discomfort. In my opinion, artists often have a cyclothymic temperament which is almost necessary to be able to create. Cyclothymic temperament is characterised by alternating periods of emotional ups and downs. We can think of the life of a tree and other processes of death and rebirth in nature as a comparison."
+         },
+         {
+            "question": "Who is your typical patient? Do you work with artists?",
             "person": "MP",
-            "answer": "Initially, I joined the project through De Structura. During the Forum in Tallinn in July 2022, a few participants started talking about health issues they encountered in the context of professional artistic work. After that, Dare to Care – Art Collective emerged as a platform fuelled by the enthusiasm of its members and it is exciting to be working with artists from different backgrounds on the topic of mental health care on a European scale. Because the concept of ‘care’ is a buzzword nowadays, I like the challenge of looking for new ways of approaching it.",
-            "person2": "ER",
-            "answer2": "I started thinking about the issue of mental health of art professionals around a year ago during a course on cultural welfare as a part of my Master’s degree. It seemed like a big oxymoron to me – how can artists contribute to societal wellbeing while they suffer from precarious working conditions and mental health problems caused by occupational stress? This motivated me to join Dare to Care because I wanted to contribute to bringing a systemic change in rights of art workers and to improving the stability of careers in the art sector."
+            "answer": "I do not have a typical patient. Because of my expertise not only in psychiatry but also homoeopathy, phytotherapy, and nutrition, my patients have various requests. Some patients contact me with mild to severe mental disorders. I also treat children with behavioural disorders. Many people come to me for prevention which consists of a correct diet and personalised homoeopathic treatment in order to avoid oncological, autoimmune or chronic degenerative diseases. In relation to my training at the Santa Croce Homoeopathic Oncology Clinic in Orselina, Locarno, directed by Dr Dario Spinedi I help patients with oncological and autoimmune diseases. Regarding artists, I mostly work with musicians. Most recently, I created workshops which focus on psychophysical balance and increasing creativity."
         },
         {
-            "question": "There are many structural problems in the art world, such as funding transparency, nepotism, and expensive art education. However, you chose to focus on mental health care. I wonder if you have a personal experience with it and if there are any particular challenges you faced so far in your careers which led to problems relating to mental health?",
+            "question": "Maintaining a healthy relationship with creativity can be hard when artists face problems, such as financial precarity and toxic competition. Can you give some advice to artists who would like a healthy and satisfying career in the arts?",
             "person": "MP",
-            "answer": "I started my career as an artistic producer only a few years ago but I can already highlight some issues causing instability at work, such as the difficulty of finding a long-term contract, mainly because non-profit artistic associations do not have access to stable funding. It is also difficult to distinguish and track the number of paid working hours and volunteering which blurs the line between working and free time. This contributes to the overall precarious nature of my work and adds more pressure to my private life and my mental health.",
-            "person2": "ER",
-            "answer2": "For me the precarity and insecurity of working in the arts make me experience constant anxiety which is perpetuated by the difficulty of finding a paid job. I also feel like I am pressured to move and go abroad to build a portfolio. As a result, I have been suffering from panic attacks, migraines, and just overall poor health."
+            "answer": "Economic difficulties and competition certainly endanger artists’ creativity. I would suggest to artists, try to keep your childlike creativity and treat artmaking as a play. In artmaking, you should feel free, not judged and be able to detach yourself from the result. Such states of mind must be trained through meditative techniques and, although this may sound strange, by discipline. Artmaking is in fact a form of meditation which requires skill as well as discipline so that it is not detrimental for the artists. By discipline I mean a discipline in lifestyle, such as healthy eating and physical activity. In I segreti degli sciamani. Il risveglio al mondo degli spiriti (2013), Sandra Ingerman writes: ‘Developing a state of consciousness through art requires practice and discipline as well as balance. It is necessary to limit the egoic soul. Once this balance is created, the door of the heart is opened and the created object can take on wonderful levels of expression, because the opening of this channel allows inspiration to flow within us from the universal soul.’ Last but not least, I recommend contact with nature. For me, nature is an immense source of regeneration and inspiration. Walking in the woods in quiet places is a great help in soothing oneself and increasing creativity."
         },
         {
-            "question": "You both mention precarity, unsustainability and instability. What kind of support is, in your opinion, missing at the moment in the art industry to prevent that?",
+            "question": "Art greatly contributes to societal well-being. How can artists improve their own well-being through art making?",
             "person": "MP",
-            "answer": "Public funding should consider models which support long-term contracts for employees to alleviate precarity. It would be also great if artists could receive more training on, for example, budgeting, production, and management. Public services and funding bodies should learn more about the nature of creative work to understand the intricacies art professionals face. I also believe art professionals who have emotionally and physically strenuous work with an unstable working schedule would benefit from accessing support, perhaps through practical workshops which would teach them how to cope in such a working environment.",
-            "person2": "ER",
-            "answer2": "As independent and emerging artists, we definitely miss tailored funding opportunities. I would also like to see broader systemic or institutional support regarding mental health care for artists in general, with a focus on early career and emerging artists."
+            "answer": "I have a very personal answer to this question. During a particularly turbulent period of my life, I turned for inspiration to Goddess Kali, who represents strength, feminine energy and the primary creative principle underlying the cosmos, the energising force behind all divine manifestation. I learnt about her in Ajit Mookerjee’s book Kali. La dea della forza femminile from 1988. Kali destroys evil forms; it is a destruction followed by creation. She embodies the vital principles of the visible universe, with its many faces: generous, cruel, creative, destructive, loving or indifferent (Mookerjee, 1988). During a difficult time, I collected many images of Kali from which I created a clay sculpture which then accompanied me for many years until my situation transformed. Based on this experience, I advise artists to keep their own truth, to limit their ego and to attempt to accept the cyclical nature of creation with its own lights and shadows."
         },
         {
-            "question": "My last question is about some of the goals of Dare to Care – what do you personally hope the collective will achieve?",
-            "person": "ER",
-            "answer": "Our goal is to be open to everyone who would like to join, to avoid exclusivity and competitiveness, which often contribute to artists’ struggle. I would like our collective to grow and bigger institutions to endorse our efforts to bring about real change. I think it is also important to identify what are currently the most urgent problems for artists.",
-            "person2": "MP",
-            "answer2": "I would firstly like our website to be a sustainable and trustworthy platform which would be a place for exchange, collecting testimonies and sharing efforts which would contribute to improvement of mental health conditions in the arts. I would also like us to develop cross-disciplinary practices in a dialogue with scientists to shed more light on mental health issues. Lastly, I would like to raise awareness about the working conditions in the arts beyond the field."
-        }]
-    },
+            "question": "Could you suggest an art therapy method that artists could apply to their practice?",
+            "person": "MP",
+            "answer": "Art therapy techniques for artists should be as free as possible. It is best to use techniques that are completely different from those used in one's daily artistic practice and to work with rituals and play. In my opinion, artists who are interested in doing art therapy for themselves should return to archaic concepts of art. Very useful art techniques in psychotherapy can be sculpture with clay, pottery, textile art, yarns, but also any technique which is used without preconceptions and judgements. Another way could be creating ritual objects onto which projects their anxieties, fears, feelings, dreams and desires. In a ritual, these can be transformed into objects which help with mental well-being. I currently work on workshops during which art and shamanic techniques intersect."
+        },
+        {
+            "question": "What is in your opinion, the relationship between psychiatry and the use of psychedelics?",
+            "person": "MP",
+            "answer": "My experience as a psychiatrist clearly showed me how drugs and psychoactive substances can damage the brain and can lead to mental disorders. It is true that such substances open the door for perception but they are very dangerous shortcuts. Psychoactive substances contain alkaloids, which in small doses cause rapid  pharmacological reactions in our bodies, especially in the central nervous system. The effect of such substances can also be achieved through practices without the use of psychedelics. Through my learning of shamanic practices, I found out that one can achieve altered states of consciousness through various techniques which lead to profound insights and increased creative abilities without the use of any substances. The sound of a drum, used in shamanic practices, is a powerful tool which induces a state in which theta waves predominate and brain impulses range from 4 to 7 Hz. This is a deep and reflective dream-like state of the brain (Ingerman, 2013). I would like to conclude by quoting one of my favourite artists, in my opinion very dreamy, Odillon Redon: ‘I read somewhere that the ability to put more meaning into a work than one had intended, and to overcome it with an unexpected result, is only given to people who are completely loyal and sincere, to those who have something more in their soul than their art. I believe this too; one needs to care about truth, perhaps the gift of pity or suffering.’ (Odillon Redon, A se stesso, 2022)."
+        }
+         ],
+         "notes": "The article was written as an interview with Dare to Care Art Collective. It was translated and edited by Kristýna Ilek, produced by Cami Ruohonen and proofread by Madeleina Kay."
+     },
 
-    {
+     {
         "_id": "002",
         "type": "interview",
         "tags": ["interview"],
@@ -117,5 +124,46 @@
             "bio3": "MgA. Vendula Ježková, Ph.D. has a Ph.D. in Dramatic Arts (Acting) from the Janáček Academy of Performing Arts. She completed an internship in dramatic and film acting at the Film School in Łódź, Poland, in 2004. Her career encompasses collaborations with the Psychosomatic Clinic in Prague 6, where she engages in Creative Play, as well as contributions to educational projects with respected entities like the Ministry of Culture - NIPOS Artama, the National Pedagogical Institute of the Czech Republic, Prague Innovation Institute. She is the founder of the democratic theatre platform Just Monkeys z.s. She worked as an actor at Divadlo Husa na provázku, Divadlo pod Palmovkou, Městské divadlo Brno, Divadlo Aréna in Bratislava, Divadlo SkRAT, and Divadlo Orfeus."
         }],
         "notes": "The article was written as an interview with Dare to Care Art Collective. It was translated and edited by Kristýna Ilek, proofread by Madeleina Kay."
-     }
+     },
+     
+    {
+       "_id": "001",
+       "type": "interview",
+       "tags": ["interview", "members"],
+       "title": "Interview for Mental Health Europe Blog",
+       "description": "Kristýna Ilek interviewed Elena Righini and Mathilde Palenius about their experience with mental health in their careers and their motivation to join Dare to Care.",
+       "image": "../../images/blog/blog001/blog-image.jpg",
+       "credits": "Credits: Ewa Rybojad, “Bending Self” 2022",
+       "link": "https://www.mhe-sme.org/dare-to-care-art-collective-mental-health-awareness/",
+       "linktext": "This interview was originally published on Mental Health Europe Blog.",
+       "intro": "My name is Kristýna Ilek, I am based in Prague, and as the group’s dramaturg I interviewed our producer Mathilde Palenius and curator Elena Righini who are also involved in the management of the project. Mathilde is currently responding from Finland and Elena from Italy.",
+       "interview": [{
+            "question": "Firstly, I would like to ask you both why did you decide to join the project? What made you think this was an important initiative to be a part of?",
+            "person": "MP",
+            "answer": "Initially, I joined the project through De Structura. During the Forum in Tallinn in July 2022, a few participants started talking about health issues they encountered in the context of professional artistic work. After that, Dare to Care – Art Collective emerged as a platform fuelled by the enthusiasm of its members and it is exciting to be working with artists from different backgrounds on the topic of mental health care on a European scale. Because the concept of ‘care’ is a buzzword nowadays, I like the challenge of looking for new ways of approaching it.",
+            "person2": "ER",
+            "answer2": "I started thinking about the issue of mental health of art professionals around a year ago during a course on cultural welfare as a part of my Master’s degree. It seemed like a big oxymoron to me – how can artists contribute to societal wellbeing while they suffer from precarious working conditions and mental health problems caused by occupational stress? This motivated me to join Dare to Care because I wanted to contribute to bringing a systemic change in rights of art workers and to improving the stability of careers in the art sector."
+        },
+        {
+            "question": "There are many structural problems in the art world, such as funding transparency, nepotism, and expensive art education. However, you chose to focus on mental health care. I wonder if you have a personal experience with it and if there are any particular challenges you faced so far in your careers which led to problems relating to mental health?",
+            "person": "MP",
+            "answer": "I started my career as an artistic producer only a few years ago but I can already highlight some issues causing instability at work, such as the difficulty of finding a long-term contract, mainly because non-profit artistic associations do not have access to stable funding. It is also difficult to distinguish and track the number of paid working hours and volunteering which blurs the line between working and free time. This contributes to the overall precarious nature of my work and adds more pressure to my private life and my mental health.",
+            "person2": "ER",
+            "answer2": "For me the precarity and insecurity of working in the arts make me experience constant anxiety which is perpetuated by the difficulty of finding a paid job. I also feel like I am pressured to move and go abroad to build a portfolio. As a result, I have been suffering from panic attacks, migraines, and just overall poor health."
+        },
+        {
+            "question": "You both mention precarity, unsustainability and instability. What kind of support is, in your opinion, missing at the moment in the art industry to prevent that?",
+            "person": "MP",
+            "answer": "Public funding should consider models which support long-term contracts for employees to alleviate precarity. It would be also great if artists could receive more training on, for example, budgeting, production, and management. Public services and funding bodies should learn more about the nature of creative work to understand the intricacies art professionals face. I also believe art professionals who have emotionally and physically strenuous work with an unstable working schedule would benefit from accessing support, perhaps through practical workshops which would teach them how to cope in such a working environment.",
+            "person2": "ER",
+            "answer2": "As independent and emerging artists, we definitely miss tailored funding opportunities. I would also like to see broader systemic or institutional support regarding mental health care for artists in general, with a focus on early career and emerging artists."
+        },
+        {
+            "question": "My last question is about some of the goals of Dare to Care – what do you personally hope the collective will achieve?",
+            "person": "ER",
+            "answer": "Our goal is to be open to everyone who would like to join, to avoid exclusivity and competitiveness, which often contribute to artists’ struggle. I would like our collective to grow and bigger institutions to endorse our efforts to bring about real change. I think it is also important to identify what are currently the most urgent problems for artists.",
+            "person2": "MP",
+            "answer2": "I would firstly like our website to be a sustainable and trustworthy platform which would be a place for exchange, collecting testimonies and sharing efforts which would contribute to improvement of mental health conditions in the arts. I would also like us to develop cross-disciplinary practices in a dialogue with scientists to shed more light on mental health issues. Lastly, I would like to raise awareness about the working conditions in the arts beyond the field."
+        }]
+    }
 ]
