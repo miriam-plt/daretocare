@@ -5,7 +5,7 @@ function Member(props) {
 
     return (
         <div>
-            <h1 className='member-name'>{member.name}</h1>
+            <h1 className='member-name'><a href={member.website} target="_blank" rel="noreferrer" className='a-link'> {member.name} </a></h1>
         </div>
     );
 };

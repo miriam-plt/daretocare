@@ -23,7 +23,8 @@
         "role": ["Curator", "Project manager"],
         "pronouns": "she/her",
         "bio": "Elena is curator and project manager. In Dare to Care, she takes care of general management, as well as helping finding concrete solutions to develop all the great ideas of the group. She lives between Italy and Spain and her research is mostly focused on sustainable curatorial practices and cultural welfare.",
-        "image": "../../images/team/elena.jpg"
+        "image": "../../images/team/elena.jpg",
+        "website": "https://www.instagram.com/__e_r_____"
      },
      {
         "_id": "kristyna",
@@ -31,7 +32,8 @@
         "role": ["Dramaturg", "Researcher"],
         "pronouns": "she/her",
         "bio": "Kristýna is Dare to Care's dramaturg. She is also a researcher, archivist, seamstress and analogue photography enthusiast. Most often, you can find her travelling between the Czech Republic, Scotland and the Netherlands.",
-        "image": "../../images/team/kristyna.jpg"
+        "image": "../../images/team/kristyna.jpg",
+        "website": "http://kristynailek.com/"
      },
      {
         "_id": "madeleina",
@@ -48,7 +50,8 @@
         "role": ["Producer", "Project coordinator"],
         "pronouns": "she/her",
         "bio": "Mathilde is an artistic producer and project coordinator based in Helsinki, working with diverse pluridisciplinary artistic spaces and projects as well as participatory actions. Often too stressed and perfectionist she is still optimistic, energetic and never gives up.",
-        "image": "../../images/team/mathilde.jpg"
+        "image": "../../images/team/mathilde.jpg",
+        "website": "https://www.instagram.com/mathildecpf/"
      },
      {
         "_id": "miriam",
